@@ -1,4 +1,30 @@
-React Redux Starter Kit
+Fuga Front End Developer Assignment
+===================================
+
+Please build a Javascript SPA that does the following:
+ - Allow a user to search www.audiosear.ch for podcast episodes.
+     - Ex. a search box returning a list resulting podcasts
+     - This functionality may be stubbed since CORS causes issues, ie. only write an interface which returns a mock response.
+     - See attached audiosearch_example_response_body.json from the endpiont: GET /search/episodes/{query}
+ - Allow users to create custom "podcast playlists" and then to save/add specific podcasts to a custom playlist.
+     - Ex. after creating a "Lolcat Lulz" playlist, I can save my favourite lolcat podcasts to this playlist.
+ - Allow users to manage the podcasts in each playlist.
+     - Ex. remove a podcast from my "Lolcat Lulz" playlist and maybe then move it to "Emocatz" playlist
+ - The playlists must be persisted/saved.
+     - Ex. when accessing the app again (possibly from another computer), the playlists must still be available.
+     - This functionality may be stubbed, ie. only write an interface which stores and retrieves the playlists.
+
+Comments:
+ - The application does not have to support "login", ie. all users will edit/manage the same playlists.
+ - You can use any JS framework or library, but React with Redux is preferred
+ - We are looking for well structured modular code
+ - We adhere to TDD, so some tests are expected
+ - Since the persistence and API query functionality may be stubbed, no backend should be required.
+
+By: Francisco Lautaro Fernandez
+
+
+Based in: React Redux Starter Kit
 =======================
 
 [![Join the chat at https://gitter.im/davezuko/react-redux-starter-kit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/davezuko/react-redux-starter-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -7,12 +33,6 @@ React Redux Starter Kit
 [![devDependency Status](https://david-dm.org/davezuko/react-redux-starter-kit/dev-status.svg)](https://david-dm.org/davezuko/react-redux-starter-kit#info=devDependencies)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
-> ### Want Semicolons?
-> After installing npm dependencies, open `.eslintrc`, change the `semi` rule from `never` to `always`, and then run `npm run lint:fix` -- Easy as that! Alternatively, use the same npm script after installing and extending your preferred ESLint configuration; it's easy to customize the project's code style to suit your team's needs. See, we can coexist peacefully.
-
-This starter kit is designed to get you up and running with a bunch of awesome new front-end technologies, all on top of a configurable, feature-rich webpack build system that's already setup to provide hot reloading, CSS modules with Sass support, unit testing, code coverage reports, bundle splitting, and a whole lot more.
-
-The primary goal of this project is to remain as **unopinionated** as possible. Its purpose is not to dictate your project structure or to demonstrate a complete sample application, but to provide a set of tools intended to make front-end development robust, easy, and, most importantly, fun. Check out the full feature list below!
 
 Table of Contents
 -----------------

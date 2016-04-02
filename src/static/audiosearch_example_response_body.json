@@ -1,0 +1,4382 @@
+{
+  "query": "cats",
+  "total_results": 992,
+  "page": 1,
+  "results_per_page": 10,
+  "results": [
+    {
+      "id": 15049,
+      "title": "Cats: Glowing eyes, puffy tails and secret purrs",
+      "description": "Why do cat eyes look the way they do? Can cats really see in the dark? And what are they trying to tell us with that purr (you know the one)? \n\nWe've got the answers -- cat behavior expert Mikel Delgado helps us decode cat quirks and producer Sanden Totten teaches us what's behind cats' glowing eyes. Plus: We learn about other cool powers that animal eyes have, that ours don't.",
+      "date_created": "2015-07-27",
+      "date_added": "2015-07-28T09:04:43.223Z",
+      "identifier": "https://api.soundcloud.com/tracks/216582092",
+      "show_id": 123,
+      "show_title": "Brains On!",
+      "tags": [
+        "Podcast",
+        "animals",
+        "cats",
+        "eyes",
+        "family",
+        "kids",
+        "public radio",
+        "science",
+        "stem"
+      ],
+      "digital_location": "http://soundcloud.com/brains-on/cats-glowing-eyes-puffy-tails-and-secret-purrs",
+      "physical_location": "soundcloud",
+      "duration": 1558,
+      "updated_at": "2016-02-12T03:20:26.997Z",
+      "network": "Minnesota Public Radio",
+      "categories": [
+        {
+          "id": 13,
+          "parent_id": 4,
+          "name": "Kids & Family",
+          "name_lc": "kids & family"
+        },
+        {
+          "id": 10,
+          "parent_id": null,
+          "name": "Science",
+          "name_lc": "science"
+        }
+      ],
+      "audio_files": [
+        {
+          "id": 14956,
+          "mp3": "https://www.audiosear.ch/media/9224da9d89d0f26bdd74d9ec47e99085/0/public/audio_file/14956/stream.mp3",
+          "ogg": "https://www.audiosear.ch/media/9bf241fcb4832a1b904001b2ad6cd749/0/public/audio_file/14956/stream.ogg",
+          "duration": "00:25:56",
+          "url_title": "cats-glowing-eyes-puffy-tails-and-secret-purrs",
+          "listenlen": "medium"
+        }
+      ],
+      "entities": [
+        {
+          "entity": "Instagram",
+          "category": "entity",
+          "score": 1,
+          "type": "Company"
+        },
+        {
+          "entity": "University of California",
+          "category": "entity",
+          "score": 1,
+          "type": "Facility"
+        },
+        {
+          "entity": "University of California",
+          "category": "entity",
+          "score": 1,
+          "type": "Organization"
+        },
+        {
+          "entity": "Cats",
+          "category": "topic",
+          "score": 1,
+          "type": null
+        },
+        {
+          "entity": "Hobbies and Personal Activities",
+          "category": "topic",
+          "score": 0.978814,
+          "type": null
+        },
+        {
+          "entity": "Pets",
+          "category": "topic",
+          "score": 0.943396,
+          "type": null
+        },
+        {
+          "entity": "cat",
+          "category": "tag",
+          "score": 0.9,
+          "type": null
+        },
+        {
+          "entity": "Molly Bloom",
+          "category": "entity",
+          "score": 0.796,
+          "type": "Person"
+        },
+        {
+          "entity": "Human Interest",
+          "category": "topic",
+          "score": 0.757,
+          "type": null
+        },
+        {
+          "entity": "California",
+          "category": "location",
+          "score": 0.67118774147124,
+          "type": "Province Or State"
+        },
+        {
+          "entity": "San Diego",
+          "category": "location",
+          "score": 0.458156909991326,
+          "type": "City"
+        },
+        {
+          "entity": "Chicago",
+          "category": "location",
+          "score": 0.289064826317888,
+          "type": "City"
+        },
+        {
+          "entity": "Michigan",
+          "category": "location",
+          "score": 0.289064826317888,
+          "type": "Province Or State"
+        },
+        {
+          "entity": "Southern California",
+          "category": "location",
+          "score": 0.289064826317888,
+          "type": "Region"
+        },
+        {
+          "entity": "Miami",
+          "category": "location",
+          "score": 0.289064826317888,
+          "type": "City"
+        },
+        {
+          "entity": "cat behavior",
+          "category": "tag",
+          "score": 0.0818181818181818,
+          "type": null
+        },
+        {
+          "entity": "animal communication",
+          "category": "tag",
+          "score": 0.0818181818181818,
+          "type": null
+        },
+        {
+          "entity": "felid",
+          "category": "tag",
+          "score": 0.0636363636363636,
+          "type": null
+        }
+      ],
+      "locations": [
+        {
+          "id": 328432,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/de9fa9e7-565a-3d76-beab-7e6363548235",
+          "name": "Michigan",
+          "score": 0.289064826317888,
+          "category": "location",
+          "entity_type": "Province Or State",
+          "item_id": 15049,
+          "extra": "{\"latitude\"=>\"43.6867450175\", \"longitude\"=>\"-85.0101500936\", \"country\"=>\"United States\"}",
+          "created_at": "2015-07-29T15:51:35.116Z",
+          "updated_at": "2015-07-29T15:51:35.116Z"
+        },
+        {
+          "id": 328436,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/9679b237-33e8-3478-ba13-d9af3c4b943e",
+          "name": "California",
+          "score": 0.67118774147124,
+          "category": "location",
+          "entity_type": "Province Or State",
+          "item_id": 15049,
+          "extra": "{\"latitude\"=>\"36.4885198674\", \"longitude\"=>\"-119.701379437\", \"country\"=>\"United States\"}",
+          "created_at": "2015-07-29T15:51:36.787Z",
+          "updated_at": "2015-07-29T15:51:36.787Z"
+        },
+        {
+          "id": 328437,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/b335fee0-c1bf-3b50-9677-478482c47734",
+          "name": "San Diego",
+          "score": 0.458156909991326,
+          "category": "location",
+          "entity_type": "City",
+          "item_id": 15049,
+          "extra": "{\"latitude\"=>\"32.7153\", \"longitude\"=>\"-117.1564\", \"country\"=>\"United States\", \"state\"=>\"California\"}",
+          "created_at": "2015-07-29T15:51:37.369Z",
+          "updated_at": "2015-07-29T15:51:37.369Z"
+        },
+        {
+          "id": 328434,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/ef7dd783-caf5-363d-b390-1a07e93c0a53",
+          "name": "Southern California",
+          "score": 0.289064826317888,
+          "category": "location",
+          "entity_type": "Region",
+          "item_id": 15049,
+          "extra": "---\nrentities:\n- Regions of California\n- Megapolitan areas of California\n- Southern California\n",
+          "created_at": "2015-07-29T15:51:35.674Z",
+          "updated_at": "2015-07-29T18:57:06.280Z"
+        },
+        {
+          "id": 328435,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/c6c3a55a-644a-31a1-a604-2e48df00041e",
+          "name": "Miami",
+          "score": 0.289064826317888,
+          "category": "location",
+          "entity_type": "City",
+          "item_id": 15049,
+          "extra": "---\nlatitude: '25.7739'\nlongitude: '-80.1939'\ncountry: United States\nstate: Florida\nrentities:\n- Seaside resorts in Florida\n- Port cities in Florida\n- Miami, Florida\n- Bermuda Triangle\n- Tropics\n- Cities in Miami-Dade County, Florida\n- Populated places in Florida with Hispanic majority populations\n- Populated places established in 1896\n- County seats in Florida\n",
+          "created_at": "2015-07-29T15:51:36.257Z",
+          "updated_at": "2015-07-29T18:57:07.179Z"
+        },
+        {
+          "id": 328438,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/03ff2f32-7d79-3042-a299-2010505bc8fc",
+          "name": "Chicago",
+          "score": 0.289064826317888,
+          "category": "location",
+          "entity_type": "City",
+          "item_id": 15049,
+          "extra": "---\nlatitude: '41.85'\nlongitude: '-87.65'\ncountry: United States\nstate: Illinois\nrentities:\n- Populated places in the United States with African American plurality populations\n- Cities in Illinois\n- Populated places in DuPage County, Illinois\n- Port settlements in the United States\n- County seats in Illinois\n- Populated places established in 1833\n- Populated places in Cook County, Illinois\n- Irish-American culture\n- Chicago metropolitan area\n- Communities on U.S. Route 66\n- Populated places on the Great Lakes\n- Italian-American culture\n- Chicago, Illinois\n- United States places with Orthodox Jewish communities\n- Polish American history\n",
+          "created_at": "2015-07-29T15:51:37.917Z",
+          "updated_at": "2015-07-29T18:57:07.451Z"
+        }
+      ],
+      "topics": [
+        {
+          "id": 328450,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Human Interest",
+          "score": 0.757,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 15049,
+          "extra": "{\"original\"=>\"Human Interest\"}",
+          "created_at": "2015-07-29T15:51:51.779Z",
+          "updated_at": "2015-07-29T15:51:51.779Z"
+        },
+        {
+          "id": 328452,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Cats",
+          "score": 1,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 15049,
+          "extra": "{\"original\"=>\"Cats\"}",
+          "created_at": "2015-07-29T15:51:52.277Z",
+          "updated_at": "2015-07-29T15:51:52.277Z"
+        },
+        {
+          "id": 328455,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Pets",
+          "score": 0.943396,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 15049,
+          "extra": "{\"original\"=>\"Pets\"}",
+          "created_at": "2015-07-29T15:51:53.257Z",
+          "updated_at": "2015-07-29T15:51:53.257Z"
+        },
+        {
+          "id": 328454,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Hobbies and Personal Activities",
+          "score": 0.978814,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 15049,
+          "extra": "---\noriginal: Hobbies & Personal Activities\nrentities: []\n",
+          "created_at": "2015-07-29T15:51:52.764Z",
+          "updated_at": "2015-07-29T18:57:15.231Z"
+        }
+      ],
+      "image_urls": {
+        "full": "https://i1.sndcdn.com/artworks-000124519269-052wmg-t500x500.jpg",
+        "thumb": "https://i1.sndcdn.com/artworks-000124519269-052wmg-large.jpg"
+      },
+      "urls": {
+        "self": "https://www.audiosear.ch/api/episodes/15049",
+        "ui": "https://www.audiosear.ch/a/3ac9/cats-glowing-eyes-puffy-tails-and-secret-purrs"
+      },
+      "highlights": [
+        {
+          "url": "https://api.soundcloud.com/tracks/216582092/stream?client_id=df968aa6d731e453a4a867495d1cdb4c",
+          "id": 14956,
+          "transcript": [
+            {
+              "text": "<em>Cats</em> have a reputation of being a bit aloof standoffish not too",
+              "start_time": "10.857",
+              "end_time": "15.378"
+            },
+            {
+              "text": "friendly. But whether <em>cats</em> really saying to us what do their purrs mean. What's with the",
+              "start_time": "15.377",
+              "end_time": "20.377"
+            },
+            {
+              "text": "Sophia how many <em>cats</em> do you have. I have two <em>cats</em> and what are their",
+              "start_time": "43.057",
+              "end_time": "47.638"
+            },
+            {
+              "text": ". Sam and George do you think that your <em>cats</em> can understand",
+              "start_time": "48.138",
+              "end_time": "53.018"
+            },
+            {
+              "text": "It's a lot of meow do you feel like you understand them pretty well. Yes the <em>cats</em> are quirky",
+              "start_time": "119.668",
+              "end_time": "124.518"
+            }
+          ]
+        }
+      ],
+      "excerpts": [
+        [
+          {
+            "start_time": "10.857",
+            "end_time": "15.378",
+            "text": "Cats have a reputation of being a bit aloof standoffish not too"
+          },
+          {
+            "start_time": "15.377",
+            "end_time": "20.377",
+            "text": "friendly. But whether cats really saying to us what do their purrs mean. What's with the"
+          },
+          {
+            "start_time": "20.378",
+            "end_time": "24.258",
+            "text": "puffy tails and what can we learn by looking into their eyes."
+          }
+        ],
+        [
+          {
+            "start_time": "38.078",
+            "end_time": "42.537",
+            "text": "Bloom and here with me today is twelve year old Sophia Gordon. Hello Sophia. Hello"
+          },
+          {
+            "start_time": "43.057",
+            "end_time": "47.638",
+            "text": "Sophia how many cats do you have. I have two cats and what are their"
+          },
+          {
+            "start_time": "47.638",
+            "end_time": "48.138",
+            "text": "names"
+          }
+        ],
+        [
+          {
+            "start_time": "47.638",
+            "end_time": "48.138",
+            "text": "names"
+          },
+          {
+            "start_time": "48.138",
+            "end_time": "53.018",
+            "text": ". Sam and George do you think that your cats can understand"
+          },
+          {
+            "start_time": "53.017",
+            "end_time": "57.528",
+            "text": "you when you talk to them. Yes. Why do you think that. Because whenever we"
+          }
+        ],
+        [
+          {
+            "start_time": "119.097",
+            "end_time": "119.668",
+            "text": "."
+          },
+          {
+            "start_time": "119.668",
+            "end_time": "124.518",
+            "text": "It's a lot of meow do you feel like you understand them pretty well. Yes the cats are quirky"
+          },
+          {
+            "start_time": "124.517",
+            "end_time": "129.508",
+            "text": "creatures and there is a lot to talk about but we want to start the show by looking into"
+          }
+        ],
+        [
+          {
+            "start_time": "129.507",
+            "end_time": "134.037",
+            "text": "their eyes. Ten year old Caleb from Carlock Illinois wrote in with this question"
+          },
+          {
+            "start_time": "134.607",
+            "end_time": "139.368",
+            "text": "How do cats see in the dark. To help us find out is producer Sanden Totten Hi"
+          },
+          {
+            "start_time": "139.368",
+            "end_time": "144.308",
+            "text": "Sanden Hey Sophia Hey Molly. C N N What do you have there is that it's a box"
+          }
+        ],
+        [
+          {
+            "start_time": "162.558",
+            "end_time": "166.978",
+            "text": ". Let's let Winslow gather her thoughts in the corner for a bit while I explain the"
+          },
+          {
+            "start_time": "166.977",
+            "end_time": "171.947",
+            "text": "magic of cat's eyes. Now cats can't see in complete darkness"
+          },
+          {
+            "start_time": "172.018",
+            "end_time": "176.808",
+            "text": "after all. Eyes need light to work but their eyes are much more sensitive to light than"
+          }
+        ],
+        [
+          {
+            "start_time": "172.018",
+            "end_time": "176.808",
+            "text": "after all. Eyes need light to work but their eyes are much more sensitive to light than"
+          },
+          {
+            "start_time": "176.808",
+            "end_time": "181.807",
+            "text": "ours so even if there's just a little sliver of light from say the moon cats can do"
+          },
+          {
+            "start_time": "181.808",
+            "end_time": "186.718",
+            "text": "just fine. Why is that. Well it's because they have a lot more rods in their"
+          }
+        ],
+        [
+          {
+            "start_time": "197.567",
+            "end_time": "202.467",
+            "text": "at detecting light cones aren't the typical human eye has about one hundred"
+          },
+          {
+            "start_time": "202.468",
+            "end_time": "207.458",
+            "text": "and twenty million rods. Cats have seven times more rods in their eyes than we"
+          },
+          {
+            "start_time": "207.458",
+            "end_time": "208.787",
+            "text": "do. So it's a lot."
+          }
+        ],
+        [
+          {
+            "start_time": "228.398",
+            "end_time": "233.327",
+            "text": "color and fine details. Rods don't do that very well. I spoke with Christopher lap and"
+          },
+          {
+            "start_time": "233.387",
+            "end_time": "237.917",
+            "text": "he studies animals at Cal Poly Pomona and he says because of that cats can't see"
+          },
+          {
+            "start_time": "237.917",
+            "end_time": "241.597",
+            "text": "color as well as we can and they don't have the best day vision either."
+          }
+        ],
+        [
+          {
+            "start_time": "266.598",
+            "end_time": "271.567",
+            "text": "blurry. I would back away from one thousand fire real Mashi"
+          },
+          {
+            "start_time": "271.567",
+            "end_time": "276.538",
+            "text": "loves it. Let's move on. Cats have another secret tool that helps them see in very low light"
+          },
+          {
+            "start_time": "276.717",
+            "end_time": "281.298",
+            "text": "something humans are totally missing. What's that. It's called the P. them"
+          }
+        ],
+        [
+          {
+            "start_time": "348.748",
+            "end_time": "353.698",
+            "text": "I mean I wouldn't like it either I just thought of such and want to help with the science lesson. Why"
+          },
+          {
+            "start_time": "353.697",
+            "end_time": "358.618",
+            "text": "am I so bad with cats I just want to love them and pet them and occasionally force them to"
+          },
+          {
+            "start_time": "358.618",
+            "end_time": "363.037",
+            "text": "participate in life podcast demonstrations is that so wrong I mean come on"
+          }
+        ],
+        [
+          {
+            "start_time": "358.618",
+            "end_time": "363.037",
+            "text": "participate in life podcast demonstrations is that so wrong I mean come on"
+          },
+          {
+            "start_time": "363.348",
+            "end_time": "368.338",
+            "text": "just let Winslow cool off. Cats like it much better when you're just chill and"
+          },
+          {
+            "start_time": "368.337",
+            "end_time": "373.057",
+            "text": "yeah OK OK. So anything else you want to share about cats and their amazing eyes. Yeah"
+          },
+          {
+            "start_time": "373.087",
+            "end_time": "378.007",
+            "text": "another thing they've got going for them is their pupils pupils I know what those are"
+          }
+        ],
+        [
+          {
+            "start_time": "463.488",
+            "end_time": "467.868",
+            "text": "face."
+          },
+          {
+            "start_time": "467.868",
+            "end_time": "472.637",
+            "text": "Cats aren't the only animals with some cool eyes human eyes are capable of greatness but in"
+          },
+          {
+            "start_time": "472.637",
+            "end_time": "475.137",
+            "text": "some ways animals have a spirit."
+          }
+        ],
+        [
+          {
+            "start_time": "650.047",
+            "end_time": "653.617",
+            "text": "Do a lot of these animals see WAY better in the dark than we do."
+          },
+          {
+            "start_time": "653.617",
+            "end_time": "658.437",
+            "text": "Like dogs cats horses Well"
+          },
+          {
+            "start_time": "658.467",
+            "end_time": "663.337",
+            "text": "yeah and then there's the polarisation vision. What we don't have that"
+          }
+        ],
+        [
+          {
+            "start_time": "915.168",
+            "end_time": "917.117",
+            "text": "Gordon and I'm Molly Bloom."
+          },
+          {
+            "start_time": "917.117",
+            "end_time": "921.537",
+            "text": "Let's get back to cats. Not only are their eyes super cool but there are also"
+          },
+          {
+            "start_time": "921.538",
+            "end_time": "924.057",
+            "text": "messages there if you know what to look for."
+          }
+        ],
+        [
+          {
+            "start_time": "924.058",
+            "end_time": "928.868",
+            "text": "We spoke with cat behavior expert Michael DELGADO. She told us what to look for"
+          },
+          {
+            "start_time": "928.928",
+            "end_time": "932.987",
+            "text": "in their eyes and about the other messages cats are sending us."
+          },
+          {
+            "start_time": "932.987",
+            "end_time": "937.867",
+            "text": "Cats do communicate through their eyes so you can look and see for example whether or not they're trying to"
+          },
+          {
+            "start_time": "937.867",
+            "end_time": "942.297",
+            "text": "get more information so if their eyes are open very big or you notice that their pupils are"
+          }
+        ],
+        [
+          {
+            "start_time": "974.898",
+            "end_time": "979.467",
+            "text": "comfortable and feel safe enough that they can close their eyes regularly."
+          },
+          {
+            "start_time": "980.188",
+            "end_time": "983.617",
+            "text": "When cats are purring. What does that mean."
+          },
+          {
+            "start_time": "983.617",
+            "end_time": "988.617",
+            "text": "Purring typically signifies a cat who is content and relaxed although"
+          }
+        ],
+        [
+          {
+            "start_time": "1003.008",
+            "end_time": "1007.778",
+            "text": "eyes are closed that's probably a sign of contentment. There's still a lot we"
+          },
+          {
+            "start_time": "1007.778",
+            "end_time": "1012.637",
+            "text": "don't understand about purring. You know really why cats purr"
+          },
+          {
+            "start_time": "1012.977",
+            "end_time": "1017.907",
+            "text": "but some of the theories are that it helps mom cat bond with her babies. So"
+          }
+        ],
+        [
+          {
+            "start_time": "1017.908",
+            "end_time": "1022.797",
+            "text": "the purring helps elicit caretaking behavior in the mom. But we"
+          },
+          {
+            "start_time": "1022.798",
+            "end_time": "1027.178",
+            "text": "also know that cats will perk when they're very frightened or even when they're very injured."
+          },
+          {
+            "start_time": "1027.178",
+            "end_time": "1032.168",
+            "text": "So it could be a self comforting behavior as well. Some believe that purring is actually have"
+          }
+        ],
+        [
+          {
+            "start_time": "1036.938",
+            "end_time": "1041.907",
+            "text": "that hasn't been studied in as much detail but there are some thoughts that maybe the cat is trying to take care of themselves"
+          },
+          {
+            "start_time": "1041.908",
+            "end_time": "1046.547",
+            "text": "by purring I was also wondering why do cats tales of up when they see another"
+          },
+          {
+            "start_time": "1046.547",
+            "end_time": "1051.398",
+            "text": "animal. Yes So that is called pile-O. erection and a"
+          }
+        ],
+        [
+          {
+            "start_time": "1046.547",
+            "end_time": "1051.398",
+            "text": "animal. Yes So that is called pile-O. erection and a"
+          },
+          {
+            "start_time": "1051.398",
+            "end_time": "1056.167",
+            "text": "lot of cats will puff up all over some cats just puff their tail and that's an attempt to"
+          },
+          {
+            "start_time": "1056.168",
+            "end_time": "1060.447",
+            "text": "look bigger. So the primal erection gives the"
+          }
+        ],
+        [
+          {
+            "start_time": "1060.707",
+            "end_time": "1065.377",
+            "text": "impression that you shouldn't fight with that cat because that cat is"
+          },
+          {
+            "start_time": "1065.378",
+            "end_time": "1069.848",
+            "text": "big and possibly scary and Sophia Do you feel like your cats that"
+          },
+          {
+            "start_time": "1069.848",
+            "end_time": "1072.408",
+            "text": "communicate with you."
+          }
+        ],
+        [
+          {
+            "start_time": "1078.348",
+            "end_time": "1083.118",
+            "text": "runs towards us. Well that's great so he knows his name basically. Yeah"
+          },
+          {
+            "start_time": "1083.688",
+            "end_time": "1088.498",
+            "text": "and a follow up question in that. Do cats actually know their names or do"
+          },
+          {
+            "start_time": "1088.497",
+            "end_time": "1092.167",
+            "text": "they come to like sounds or words."
+          }
+        ],
+        [
+          {
+            "start_time": "1092.168",
+            "end_time": "1096.547",
+            "text": "That's a really good question. I think you could train your cat to come to a particular"
+          },
+          {
+            "start_time": "1096.918",
+            "end_time": "1101.918",
+            "text": "sound being their name I think a lot of cats respond to our tone of voice so if you always use the"
+          },
+          {
+            "start_time": "1101.918",
+            "end_time": "1106.857",
+            "text": "same tone of voice when you call you know George so he learns that that tone"
+          }
+        ],
+        [
+          {
+            "start_time": "1106.858",
+            "end_time": "1108.918",
+            "text": "of voice means you're going to give him attention."
+          },
+          {
+            "start_time": "1108.918",
+            "end_time": "1113.607",
+            "text": "You know my husband and I had an experiment once where he thought the cats knew their name which was"
+          },
+          {
+            "start_time": "1113.608",
+            "end_time": "1118.328",
+            "text": "Cozumel and so I said he would go cousin all and the cat would come but then I started going"
+          }
+        ],
+        [
+          {
+            "start_time": "1118.328",
+            "end_time": "1122.027",
+            "text": "self in the same voice and the cat still came."
+          },
+          {
+            "start_time": "1122.027",
+            "end_time": "1126.828",
+            "text": "Yeah I've done that with my own cats to the same result so I think it"
+          },
+          {
+            "start_time": "1126.828",
+            "end_time": "1131.057",
+            "text": "really is tone of voice because we tend to exclusively use it for them."
+          }
+        ],
+        [
+          {
+            "start_time": "1143.108",
+            "end_time": "1147.818",
+            "text": "First you loved all now from the people who brought you dogs"
+          },
+          {
+            "start_time": "1148.088",
+            "end_time": "1152.838",
+            "text": "its cats cats."
+          },
+          {
+            "start_time": "1152.838",
+            "end_time": "1157.688",
+            "text": "Dogs or cleaning itself and buried it. Who say you didn't have to look at it"
+          }
+        ],
+        [
+          {
+            "start_time": "1152.838",
+            "end_time": "1157.688",
+            "text": "Dogs or cleaning itself and buried it. Who say you didn't have to look at it"
+          },
+          {
+            "start_time": "1157.688",
+            "end_time": "1160.977",
+            "text": ". Well then you're going to love cats."
+          },
+          {
+            "start_time": "1160.977",
+            "end_time": "1165.518",
+            "text": "Hi I'm doing Donaldson and I Susan sharp. We're here to tell you about a"
+          }
+        ],
+        [
+          {
+            "start_time": "1165.658",
+            "end_time": "1170.518",
+            "text": "breakthrough in pet technology it's a new furry creature that never needs a lot"
+          },
+          {
+            "start_time": "1170.557",
+            "end_time": "1174.088",
+            "text": "and is perfectly sized for on the last cuddle cats."
+          },
+          {
+            "start_time": "1174.088",
+            "end_time": "1178.318",
+            "text": "Cats come with amazing state of the art technology like whiskers"
+          },
+          {
+            "start_time": "1178.318",
+            "end_time": "1183.208",
+            "text": ". These aren't just hair stand there like Kitty radar they're attached to"
+          }
+        ],
+        [
+          {
+            "start_time": "1178.318",
+            "end_time": "1183.208",
+            "text": ". These aren't just hair stand there like Kitty radar they're attached to"
+          },
+          {
+            "start_time": "1183.318",
+            "end_time": "1187.838",
+            "text": "very sensitive nerves and allow cats to detect the location size and"
+          },
+          {
+            "start_time": "1187.838",
+            "end_time": "1192.707",
+            "text": "texture of something just by brushing past it. They're like fingers on a face. Susan"
+          }
+        ],
+        [
+          {
+            "start_time": "1199.777",
+            "end_time": "1202.588",
+            "text": "legals into. You drop it on its head."
+          },
+          {
+            "start_time": "1202.588",
+            "end_time": "1207.497",
+            "text": "That's no problem with cats. They're built in writing reflexes is their signature flexible spine"
+          },
+          {
+            "start_time": "1207.497",
+            "end_time": "1212.418",
+            "text": "and lack of a functional collar bone to make sure they can swing around in mid air it's almost always land"
+          }
+        ],
+        [
+          {
+            "start_time": "1218.068",
+            "end_time": "1222.737",
+            "text": "that much jumps up and slobbers all over your new shirt. Well. Groomed"
+          },
+          {
+            "start_time": "1222.737",
+            "end_time": "1225.237",
+            "text": "brows. That won't happen with cats."
+          },
+          {
+            "start_time": "1225.237",
+            "end_time": "1229.387",
+            "text": "Simply come home and they'll just sit in the corner silently judging you"
+          }
+        ],
+        [
+          {
+            "start_time": "1234.138",
+            "end_time": "1236.338",
+            "text": "But amazing Susan."
+          },
+          {
+            "start_time": "1236.338",
+            "end_time": "1241.297",
+            "text": "Cats sound great all to me and I'll take twenty if you want to"
+          },
+          {
+            "start_time": "1241.297",
+            "end_time": "1246.098",
+            "text": "know more about the fantastic feline features of the amazing cat stay"
+          }
+        ],
+        [
+          {
+            "start_time": "1336.158",
+            "end_time": "1340.998",
+            "text": "about this power and why it's so hard for me to ignore. She was able to get recordings of ten"
+          },
+          {
+            "start_time": "1340.997",
+            "end_time": "1345.807",
+            "text": "cats who do this kind of solicitation purring you know every cat though it's"
+          },
+          {
+            "start_time": "1345.848",
+            "end_time": "1350.847",
+            "text": "quite a specialist and the cat who have a sort of"
+          }
+        ],
+        [
+          {
+            "start_time": "1355.767",
+            "end_time": "1357.408",
+            "text": "a lot of attention to the cat."
+          },
+          {
+            "start_time": "1357.408",
+            "end_time": "1362.128",
+            "text": "She also got recordings of these cats non solicitation pearls which sound like"
+          },
+          {
+            "start_time": "1362.128",
+            "end_time": "1362.457",
+            "text": "this."
+          }
+        ],
+        [
+          {
+            "start_time": "1373.277",
+            "end_time": "1378.208",
+            "text": "She had them rate how urgent the person did and also how pleasant it sounded"
+          },
+          {
+            "start_time": "1378.618",
+            "end_time": "1383.387",
+            "text": "that even humans with no experience of cats could do this task"
+          },
+          {
+            "start_time": "1383.388",
+            "end_time": "1388.007",
+            "text": "very well. Following the solicitation powers of"
+          }
+        ],
+        [
+          {
+            "start_time": "1427.578",
+            "end_time": "1432.477",
+            "text": "wanted to give care because we've got a sensitivity to"
+          },
+          {
+            "start_time": "1432.747",
+            "end_time": "1437.728",
+            "text": "those sorts of signals and cats do some cool things with their vocal cords that lets them in bed"
+          },
+          {
+            "start_time": "1437.727",
+            "end_time": "1442.097",
+            "text": "the secret high pitch in their partner the reason that they can do it. First of all the"
+          }
+        ],
+        [
+          {
+            "start_time": "1475.108",
+            "end_time": "1476.297",
+            "text": "be trying to send to you."
+          },
+          {
+            "start_time": "1479.057",
+            "end_time": "1483.847",
+            "text": "And cats are complicated creatures."
+          },
+          {
+            "start_time": "1483.848",
+            "end_time": "1488.777",
+            "text": "Their actions and behaviors like currying pupil dilation tail puffing"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 8800,
+      "title": "Hacks, Cats, & Colbert",
+      "description": " <span>The ethics of publicly exposing private emails, the demise of Cat Fancy magazine, and a farewell to the Colbert Report. </span> ",
+      "date_created": "2014-12-19",
+      "date_added": "2015-07-20T19:17:44.513Z",
+      "identifier": "http://www.onthemedia.org/story/on-the-media-2014-12-19/",
+      "show_id": 34,
+      "show_title": "On The Media",
+      "tags": [
+        "cats",
+        "colbert",
+        "ferrets",
+        "hacks",
+        "media",
+        "news",
+        "sony",
+        "twittercard"
+      ],
+      "digital_location": "http://www.onthemedia.org/story/on-the-media-2014-12-19/",
+      "physical_location": "rss",
+      "duration": 3130,
+      "updated_at": "2016-02-12T01:11:21.291Z",
+      "network": "NPROne",
+      "categories": [
+        {
+          "id": 5,
+          "parent_id": null,
+          "name": "Society & Culture",
+          "name_lc": "society & culture"
+        }
+      ],
+      "audio_files": [
+        {
+          "id": 8764,
+          "mp3": "https://www.audiosear.ch/media/cb455db8895b3f96f90714868dd3c418/0/public/audio_file/8764/otm121914pod.mp3",
+          "ogg": "https://www.audiosear.ch/media/8c76d50e25bd7f5b0294e1dc06734ed9/0/public/audio_file/8764/otm121914pod.ogg",
+          "duration": "00:52:10",
+          "url_title": "hacks-cats--colbert",
+          "listenlen": "long"
+        }
+      ],
+      "entities": [
+        {
+          "entity": "the daily show",
+          "category": "tag",
+          "score": 0.9,
+          "type": null
+        },
+        {
+          "entity": "the colbert report",
+          "category": "tag",
+          "score": 0.9,
+          "type": null
+        },
+        {
+          "entity": "Human Interest",
+          "category": "topic",
+          "score": 0.894,
+          "type": null
+        },
+        {
+          "entity": "Hospitality & Recreation",
+          "category": "topic",
+          "score": 0.642,
+          "type": null
+        }
+      ],
+      "topics": [
+        {
+          "id": 310471,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Human Interest",
+          "score": 0.894,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 8800,
+          "extra": "{\"original\"=>\"Human Interest\"}",
+          "created_at": "2015-07-29T05:26:53.815Z",
+          "updated_at": "2015-07-29T05:26:53.815Z"
+        },
+        {
+          "id": 310472,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Hospitality & Recreation",
+          "score": 0.642,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 8800,
+          "extra": "{\"original\"=>\"Hospitality_Recreation\"}",
+          "created_at": "2015-07-29T05:26:54.398Z",
+          "updated_at": "2015-07-29T05:26:54.398Z"
+        }
+      ],
+      "image_urls": {
+        "full": "https://i1.sndcdn.com/avatars-000011358664-cgze75-t500x500.jpg",
+        "thumb": "https://i1.sndcdn.com/avatars-000011358664-cgze75-large.jpg"
+      },
+      "contributors": [
+        {
+          "role": "creator",
+          "slug": "wnycstudios",
+          "name": "WNYC Studios",
+          "person_id": 12411,
+          "urls": {
+            "self": "https://www.audiosear.ch/api/people/12411",
+            "ui": "https://www.audiosear.ch/people/w#wnycstudios"
+          }
+        }
+      ],
+      "urls": {
+        "self": "https://www.audiosear.ch/api/episodes/8800",
+        "ui": "https://www.audiosear.ch/a/2260/hacks-cats--colbert"
+      },
+      "highlights": []
+    },
+    {
+      "id": 15034,
+      "title": "Cats: Glowing eyes, puffy tails and secret purrs",
+      "description": "Why do cat eyes look the way they do? Can cats really see in the dark? And what are they trying to tell us with that purr (you know the one)? \n\nWe've got the answers -- cat behavior expert Mikel Delgado helps us decode cat quirks and producer Sanden Totten teaches us what's behind cats' glowing eyes. Plus: We learn about other cool powers that animal eyes have, that ours don't.",
+      "date_created": "2015-07-27",
+      "date_added": "2015-07-27T20:04:01.883Z",
+      "identifier": "http://download.publicradio.org/podcast/minnesota/podcasts/brains_on/2015/07/brainson_20150727_27_20150727_64.mp3",
+      "show_id": 123,
+      "show_title": "Brains On!",
+      "digital_location": "http://play.publicradio.org/default/d/podcast/minnesota/podcasts/brains_on/2015/07/brainson_20150727_27_20150727_64.mp3",
+      "physical_location": "rss",
+      "duration": 1580,
+      "updated_at": "2016-02-12T03:20:26.726Z",
+      "network": "Minnesota Public Radio",
+      "categories": [
+        {
+          "id": 13,
+          "parent_id": 4,
+          "name": "Kids & Family",
+          "name_lc": "kids & family"
+        },
+        {
+          "id": 10,
+          "parent_id": null,
+          "name": "Science",
+          "name_lc": "science"
+        }
+      ],
+      "audio_files": [
+        {
+          "id": 14941,
+          "mp3": "https://www.audiosear.ch/media/772601b4cdbd1df4f865cd30e87c7ea2/0/public/audio_file/14941/brainson_20150727_27_20150727_64.mp3",
+          "ogg": "https://www.audiosear.ch/media/c79992918b5140329ea939204417a2e5/0/public/audio_file/14941/brainson_20150727_27_20150727_64.ogg",
+          "duration": "00:26:20",
+          "url_title": "cats-glowing-eyes-puffy-tails-and-secret-purrs",
+          "listenlen": "medium"
+        }
+      ],
+      "entities": [
+        {
+          "entity": "University of California",
+          "category": "entity",
+          "score": 1,
+          "type": "Organization"
+        },
+        {
+          "entity": "Harvey Mudd College",
+          "category": "entity",
+          "score": 1,
+          "type": "Organization"
+        },
+        {
+          "entity": "Cats",
+          "category": "topic",
+          "score": 1,
+          "type": null
+        },
+        {
+          "entity": "Harvey Mudd College",
+          "category": "entity",
+          "score": 1,
+          "type": "Facility"
+        },
+        {
+          "entity": "University of California",
+          "category": "entity",
+          "score": 1,
+          "type": "Facility"
+        },
+        {
+          "entity": "Lucent",
+          "category": "entity",
+          "score": 1,
+          "type": "Company"
+        },
+        {
+          "entity": "Instagram",
+          "category": "entity",
+          "score": 1,
+          "type": "Company"
+        },
+        {
+          "entity": "Hobbies and Personal Activities",
+          "category": "topic",
+          "score": 0.978814,
+          "type": null
+        },
+        {
+          "entity": "Pets",
+          "category": "topic",
+          "score": 0.943396,
+          "type": null
+        },
+        {
+          "entity": "cat",
+          "category": "tag",
+          "score": 0.9,
+          "type": null
+        },
+        {
+          "entity": "Molly Bloom",
+          "category": "entity",
+          "score": 0.811,
+          "type": "Person"
+        },
+        {
+          "entity": "Human Interest",
+          "category": "topic",
+          "score": 0.68,
+          "type": null
+        },
+        {
+          "entity": "California",
+          "category": "location",
+          "score": 0.647685462377997,
+          "type": "Province Or State"
+        },
+        {
+          "entity": "San Diego",
+          "category": "location",
+          "score": 0.44211410869774,
+          "type": "City"
+        },
+        {
+          "entity": "Southern California",
+          "category": "location",
+          "score": 0.27894294565113,
+          "type": "Region"
+        },
+        {
+          "entity": "Miami",
+          "category": "location",
+          "score": 0.27894294565113,
+          "type": "City"
+        },
+        {
+          "entity": "Chicago",
+          "category": "location",
+          "score": 0.27894294565113,
+          "type": "City"
+        },
+        {
+          "entity": "Michigan",
+          "category": "location",
+          "score": 0.27894294565113,
+          "type": "Province Or State"
+        },
+        {
+          "entity": "cat behavior",
+          "category": "tag",
+          "score": 0.075,
+          "type": null
+        },
+        {
+          "entity": "animal communication",
+          "category": "tag",
+          "score": 0.075,
+          "type": null
+        },
+        {
+          "entity": "felid",
+          "category": "tag",
+          "score": 0.0583333333333333,
+          "type": null
+        },
+        {
+          "entity": "a better tomorrow",
+          "category": "tag",
+          "score": 0.0583333333333333,
+          "type": null
+        }
+      ],
+      "locations": [
+        {
+          "id": 354453,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/ef7dd783-caf5-363d-b390-1a07e93c0a53",
+          "name": "Southern California",
+          "score": 0.27894294565113,
+          "category": "location",
+          "entity_type": "Region",
+          "item_id": 15034,
+          "extra": "---\nrentities:\n- Regions of California\n- Megapolitan areas of California\n- Southern California\n",
+          "created_at": "2015-07-30T03:57:51.620Z",
+          "updated_at": "2015-07-30T03:58:27.175Z"
+        },
+        {
+          "id": 354454,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/c6c3a55a-644a-31a1-a604-2e48df00041e",
+          "name": "Miami",
+          "score": 0.27894294565113,
+          "category": "location",
+          "entity_type": "City",
+          "item_id": 15034,
+          "extra": "---\nlatitude: '25.7739'\nlongitude: '-80.1939'\ncountry: United States\nstate: Florida\nrentities:\n- Seaside resorts in Florida\n- Port cities in Florida\n- Miami, Florida\n- Bermuda Triangle\n- Tropics\n- Cities in Miami-Dade County, Florida\n- Populated places in Florida with Hispanic majority populations\n- Populated places established in 1896\n- County seats in Florida\n",
+          "created_at": "2015-07-30T03:57:52.272Z",
+          "updated_at": "2015-07-30T03:58:42.948Z"
+        },
+        {
+          "id": 354455,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/9679b237-33e8-3478-ba13-d9af3c4b943e",
+          "name": "California",
+          "score": 0.647685462377997,
+          "category": "location",
+          "entity_type": "Province Or State",
+          "item_id": 15034,
+          "extra": "---\nlatitude: '36.4885198674'\nlongitude: '-119.701379437'\ncountry: United States\nrentities:\n- West Coast of the United States\n- States and territories established in 1850\n- States of the United States\n- Former Spanish colonies\n- California\n",
+          "created_at": "2015-07-30T03:57:52.812Z",
+          "updated_at": "2015-07-30T03:58:46.214Z"
+        },
+        {
+          "id": 354457,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/03ff2f32-7d79-3042-a299-2010505bc8fc",
+          "name": "Chicago",
+          "score": 0.27894294565113,
+          "category": "location",
+          "entity_type": "City",
+          "item_id": 15034,
+          "extra": "---\nlatitude: '41.85'\nlongitude: '-87.65'\ncountry: United States\nstate: Illinois\nrentities:\n- Populated places in the United States with African American plurality populations\n- Cities in Illinois\n- Populated places in DuPage County, Illinois\n- Port settlements in the United States\n- County seats in Illinois\n- Populated places established in 1833\n- Populated places in Cook County, Illinois\n- Irish-American culture\n- Chicago metropolitan area\n- Communities on U.S. Route 66\n- Populated places on the Great Lakes\n- Italian-American culture\n- Chicago, Illinois\n- United States places with Orthodox Jewish communities\n- Polish American history\n",
+          "created_at": "2015-07-30T03:57:53.924Z",
+          "updated_at": "2015-07-30T03:58:46.828Z"
+        },
+        {
+          "id": 354452,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/de9fa9e7-565a-3d76-beab-7e6363548235",
+          "name": "Michigan",
+          "score": 0.27894294565113,
+          "category": "location",
+          "entity_type": "Province Or State",
+          "item_id": 15034,
+          "extra": "---\nlatitude: '43.6867450175'\nlongitude: '-85.0101500936'\ncountry: United States\nrentities:\n- States of the United States\n- Michigan\n- States and territories established in 1837\n",
+          "created_at": "2015-07-30T03:57:51.006Z",
+          "updated_at": "2015-07-30T03:58:47.620Z"
+        },
+        {
+          "id": 354456,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/b335fee0-c1bf-3b50-9677-478482c47734",
+          "name": "San Diego",
+          "score": 0.44211410869774,
+          "category": "location",
+          "entity_type": "City",
+          "item_id": 15034,
+          "extra": "---\nlatitude: '32.7153'\nlongitude: '-117.1564'\ncountry: United States\nstate: California\nrentities:\n- Cities in San Diego County, California\n- San Diego metropolitan area\n- Populated coastal places in California\n- Spanish mission settlements in North America\n- County seats in California\n- San Diego, California\n- Article Feedback 5\n- Populated places established in 1769\n- Cities in Southern California\n- San Diego County, California\n- Incorporated cities and towns in California\n",
+          "created_at": "2015-07-30T03:57:53.351Z",
+          "updated_at": "2015-07-30T03:58:25.528Z"
+        }
+      ],
+      "topics": [
+        {
+          "id": 354463,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Human Interest",
+          "score": 0.68,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 15034,
+          "extra": "---\noriginal: Human Interest\nrentities:\n- Journalism genres\n",
+          "created_at": "2015-07-30T03:58:01.342Z",
+          "updated_at": "2015-07-30T03:58:27.756Z"
+        },
+        {
+          "id": 354465,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Hobbies and Personal Activities",
+          "score": 0.978814,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 15034,
+          "extra": "---\noriginal: Hobbies & Personal Activities\nrentities: []\n",
+          "created_at": "2015-07-30T03:58:02.319Z",
+          "updated_at": "2015-07-30T03:58:04.265Z"
+        },
+        {
+          "id": 354466,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Pets",
+          "score": 0.943396,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 15034,
+          "extra": "---\noriginal: Pets\nrentities:\n- Pets\n- Human–animal relationships\n",
+          "created_at": "2015-07-30T03:58:02.810Z",
+          "updated_at": "2015-07-30T03:58:04.895Z"
+        },
+        {
+          "id": 354464,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Cats",
+          "score": 1,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 15034,
+          "extra": "---\noriginal: Cats\nrentities:\n- Sunderland A.F.C.\n- Association football clubs established in 1879\n- FA Cup winners\n- Premier League clubs\n- 1879 establishments in England\n- Former Football League clubs\n- Tyne and Wear football clubs\n- Football clubs in England\n",
+          "created_at": "2015-07-30T03:58:01.831Z",
+          "updated_at": "2015-07-30T03:58:04.970Z"
+        }
+      ],
+      "image_urls": {
+        "full": "https://i1.sndcdn.com/avatars-000035597665-kvx42j-t500x500.jpg",
+        "thumb": "https://i1.sndcdn.com/avatars-000035597665-kvx42j-large.jpg"
+      },
+      "contributors": [
+        {
+          "role": "mentioned",
+          "slug": "mollybloom",
+          "name": "Molly Bloom",
+          "person_id": 10639,
+          "urls": {
+            "self": "https://www.audiosear.ch/api/people/10639",
+            "ui": "https://www.audiosear.ch/people/m#mollybloom"
+          }
+        }
+      ],
+      "urls": {
+        "self": "https://www.audiosear.ch/api/episodes/15034",
+        "ui": "https://www.audiosear.ch/a/3aba/cats-glowing-eyes-puffy-tails-and-secret-purrs"
+      },
+      "highlights": [
+        {
+          "url": "http://play.publicradio.org/default/d/podcast/minnesota/podcasts/brains_on/2015/07/brainson_20150727_27_20150727_64.mp3",
+          "id": 14941,
+          "transcript": [
+            {
+              "text": "<em>Cats</em> have a reputation of being a bit aloof standoffish not too",
+              "start_time": "38.157",
+              "end_time": "42.677"
+            },
+            {
+              "text": "friendly. But whether <em>cats</em> really saying to us what do their purrs mean. What's with the",
+              "start_time": "42.678",
+              "end_time": "47.667"
+            },
+            {
+              "text": "Sophia how many <em>cats</em> do you have. I have two <em>cats</em> and one of their",
+              "start_time": "70.347",
+              "end_time": "74.928"
+            },
+            {
+              "text": ". Sam and George do you think that your <em>cats</em> can understand",
+              "start_time": "75.438",
+              "end_time": "80.318"
+            },
+            {
+              "text": "It's a lot of meow then you feel like you understand them pretty well. Yes the <em>cats</em> are quirky",
+              "start_time": "146.968",
+              "end_time": "151.817"
+            }
+          ]
+        }
+      ],
+      "excerpts": [
+        [
+          {
+            "start_time": "32.188",
+            "end_time": "38.157",
+            "text": "."
+          },
+          {
+            "start_time": "38.157",
+            "end_time": "42.677",
+            "text": "Cats have a reputation of being a bit aloof standoffish not too"
+          },
+          {
+            "start_time": "42.678",
+            "end_time": "47.667",
+            "text": "friendly. But whether cats really saying to us what do their purrs mean. What's with the"
+          },
+          {
+            "start_time": "47.667",
+            "end_time": "52.637",
+            "text": "puffy tails and what can we learn by looking into their eyes. We'll find out right"
+          }
+        ],
+        [
+          {
+            "start_time": "65.368",
+            "end_time": "69.837",
+            "text": "Bloom and here with me today is twelve year old Sophia Gordon. Hello Sophia. Hello"
+          },
+          {
+            "start_time": "70.347",
+            "end_time": "74.928",
+            "text": "Sophia how many cats do you have. I have two cats and one of their"
+          },
+          {
+            "start_time": "74.927",
+            "end_time": "75.437",
+            "text": "names"
+          }
+        ],
+        [
+          {
+            "start_time": "74.927",
+            "end_time": "75.437",
+            "text": "names"
+          },
+          {
+            "start_time": "75.438",
+            "end_time": "80.318",
+            "text": ". Sam and George do you think that your cats can understand"
+          },
+          {
+            "start_time": "80.317",
+            "end_time": "84.827",
+            "text": "you when you talk to them. Yes. Why do you think that. Because whenever we"
+          }
+        ],
+        [
+          {
+            "start_time": "146.397",
+            "end_time": "146.968",
+            "text": "."
+          },
+          {
+            "start_time": "146.968",
+            "end_time": "151.817",
+            "text": "It's a lot of meow then you feel like you understand them pretty well. Yes the cats are quirky"
+          },
+          {
+            "start_time": "151.817",
+            "end_time": "156.797",
+            "text": "creatures and there is a lot to talk about but we want to start the show by looking into"
+          }
+        ],
+        [
+          {
+            "start_time": "156.798",
+            "end_time": "161.338",
+            "text": "their eyes. Ten year old Caleb from Carlock Illinois wrote in with this question"
+          },
+          {
+            "start_time": "161.898",
+            "end_time": "166.667",
+            "text": "How do cats see in the dark. To help us find out is producer Sanden Totten Hi"
+          },
+          {
+            "start_time": "166.667",
+            "end_time": "171.647",
+            "text": "Sanden Hey Sophia Hey Molly. C N N What do you have there is that it's a box."
+          }
+        ],
+        [
+          {
+            "start_time": "188.687",
+            "end_time": "193.607",
+            "text": "Surprise. Molly let's let Winslow gather her thoughts in the corner for a bit while I"
+          },
+          {
+            "start_time": "193.607",
+            "end_time": "198.157",
+            "text": "explain the magic of cat's eyes. Now cats can't see in"
+          },
+          {
+            "start_time": "198.157",
+            "end_time": "203.047",
+            "text": "complete darkness after all. Eyes need light to work but their eyes are much"
+          }
+        ],
+        [
+          {
+            "start_time": "203.047",
+            "end_time": "207.647",
+            "text": "more sensitive to light than ours so even if there's just a little sliver of light from say the"
+          },
+          {
+            "start_time": "207.647",
+            "end_time": "212.477",
+            "text": "moon cats can do just fine. Why is that. Well it's because they have a"
+          },
+          {
+            "start_time": "212.477",
+            "end_time": "214.747",
+            "text": "lot more rods in their eyes than we do."
+          }
+        ],
+        [
+          {
+            "start_time": "225.048",
+            "end_time": "229.928",
+            "text": "detecting light cones aren't a typical human eye has about one hundred and"
+          },
+          {
+            "start_time": "229.928",
+            "end_time": "234.757",
+            "text": "twenty million rods. Cats have seven times more rods in their eyes than we"
+          },
+          {
+            "start_time": "234.757",
+            "end_time": "236.087",
+            "text": "do. So it's a lot."
+          }
+        ],
+        [
+          {
+            "start_time": "259.298",
+            "end_time": "264.137",
+            "text": "I spoke with Christopher lap and he studies animals at Cal Poly Pomona and he says because of that"
+          },
+          {
+            "start_time": "264.308",
+            "end_time": "268.857",
+            "text": "cats can't see color as well as we can and they don't have the best day vision either"
+          },
+          {
+            "start_time": "268.858",
+            "end_time": "273.758",
+            "text": ". It's a classic trade off. Almost everything. In biology involves a trade off. They can"
+          }
+        ],
+        [
+          {
+            "start_time": "293.897",
+            "end_time": "298.868",
+            "text": "blurry. I would back away from one thousand fire real Mashi"
+          },
+          {
+            "start_time": "298.868",
+            "end_time": "303.838",
+            "text": "loves it. Let's move on. Cats have another secret tool that helps them see in very low light"
+          },
+          {
+            "start_time": "304.007",
+            "end_time": "308.598",
+            "text": "something humans are totally missing. What's that. It's called the P. them"
+          }
+        ],
+        [
+          {
+            "start_time": "375.998",
+            "end_time": "378.007",
+            "text": ". I mean I wouldn't like it either."
+          },
+          {
+            "start_time": "378.207",
+            "end_time": "383.087",
+            "text": "I just thought of such and want to help with the science lesson. Why am I so bad with cats I"
+          },
+          {
+            "start_time": "383.087",
+            "end_time": "387.278",
+            "text": "just want to love them and pet them and occasionally force them to participate in life podcast"
+          }
+        ],
+        [
+          {
+            "start_time": "387.277",
+            "end_time": "392.177",
+            "text": "demonstrations is that so wrong I mean come on just let Winslow cool"
+          },
+          {
+            "start_time": "392.178",
+            "end_time": "396.207",
+            "text": "off. Cats like it much better when you're just chill and yeah OK."
+          },
+          {
+            "start_time": "396.738",
+            "end_time": "401.558",
+            "text": "So anything else you want to share about cats and their amazing eyes. Yeah another thing they've got going"
+          },
+          {
+            "start_time": "401.558",
+            "end_time": "405.298",
+            "text": "for them is their pupils pupils I know what those are"
+          }
+        ],
+        [
+          {
+            "start_time": "490.777",
+            "end_time": "492.248",
+            "text": "face."
+          },
+          {
+            "start_time": "492.248",
+            "end_time": "496.958",
+            "text": "But cats aren't the only animals with some"
+          },
+          {
+            "start_time": "496.957",
+            "end_time": "500.657",
+            "text": "cool eyes human eyes are capable of greatness spun some ways"
+          }
+        ],
+        [
+          {
+            "start_time": "677.308",
+            "end_time": "680.918",
+            "text": ". Do a lot of these animals see WAY better in the dark than we do."
+          },
+          {
+            "start_time": "680.918",
+            "end_time": "685.737",
+            "text": "Like dogs cats horses Well"
+          },
+          {
+            "start_time": "685.768",
+            "end_time": "690.638",
+            "text": "yeah and then there's the polarisation vision what we don't have that"
+          }
+        ],
+        [
+          {
+            "start_time": "942.457",
+            "end_time": "944.418",
+            "text": "Gordon and I'm Molly Bloom."
+          },
+          {
+            "start_time": "944.418",
+            "end_time": "948.828",
+            "text": "Let's get back to cats. Not only are their eyes super cool but there are also"
+          },
+          {
+            "start_time": "948.827",
+            "end_time": "951.357",
+            "text": "messages there if you know what to look for."
+          }
+        ],
+        [
+          {
+            "start_time": "951.357",
+            "end_time": "956.177",
+            "text": "We spoke with cat behavior expert Michael DELGADO. She told us what to look for"
+          },
+          {
+            "start_time": "956.217",
+            "end_time": "960.287",
+            "text": "in their eyes and about the other messages cats are sending us."
+          },
+          {
+            "start_time": "960.288",
+            "end_time": "965.158",
+            "text": "Cats do communicate through their eyes so you can look and see for example whether or not they're trying to"
+          },
+          {
+            "start_time": "965.158",
+            "end_time": "969.598",
+            "text": "get more information so if their eyes are open very big or you notice that their pupils are"
+          }
+        ],
+        [
+          {
+            "start_time": "1002.197",
+            "end_time": "1006.768",
+            "text": "comfortable and feel safe enough that they can close their eyes regularly."
+          },
+          {
+            "start_time": "1007.457",
+            "end_time": "1010.908",
+            "text": "When cats are purring. What does that mean."
+          },
+          {
+            "start_time": "1010.908",
+            "end_time": "1015.908",
+            "text": "Purring typically signifies a cat who is content and relaxed although"
+          }
+        ],
+        [
+          {
+            "start_time": "1030.297",
+            "end_time": "1035.078",
+            "text": "eyes are closed that's probably a sign of contentment. There's still a lot we"
+          },
+          {
+            "start_time": "1035.078",
+            "end_time": "1039.927",
+            "text": "don't understand about purring. You know really why cats purr"
+          },
+          {
+            "start_time": "1040.267",
+            "end_time": "1045.197",
+            "text": "but some of the theories are that it helps mom cat bond with her babies. So"
+          }
+        ],
+        [
+          {
+            "start_time": "1045.197",
+            "end_time": "1050.087",
+            "text": "the purring helps elicit caretaking behavior in the mom. But we"
+          },
+          {
+            "start_time": "1050.088",
+            "end_time": "1054.478",
+            "text": "also know that cats will perk when they're very frightened or even when they're very injured."
+          },
+          {
+            "start_time": "1054.477",
+            "end_time": "1059.458",
+            "text": "So it could be a self comforting behavior as well. Some believe that purring is actually have"
+          }
+        ],
+        [
+          {
+            "start_time": "1064.217",
+            "end_time": "1069.197",
+            "text": "that hasn't been studied in as much detail but there are some thoughts that maybe the cat is trying to take care of themselves"
+          },
+          {
+            "start_time": "1069.197",
+            "end_time": "1073.837",
+            "text": "by purring I was also wondering why do cats tales of up when they see another"
+          },
+          {
+            "start_time": "1073.838",
+            "end_time": "1078.697",
+            "text": "animal. Yes So that is called pile-O. erection and a"
+          }
+        ],
+        [
+          {
+            "start_time": "1073.838",
+            "end_time": "1078.697",
+            "text": "animal. Yes So that is called pile-O. erection and a"
+          },
+          {
+            "start_time": "1078.697",
+            "end_time": "1083.457",
+            "text": "lot of cats they'll puff up all over some cats just puff their tail and that's an attempt to"
+          },
+          {
+            "start_time": "1083.457",
+            "end_time": "1087.748",
+            "text": "look bigger so the primal erection gives the"
+          }
+        ],
+        [
+          {
+            "start_time": "1088.007",
+            "end_time": "1092.667",
+            "text": "impression that you shouldn't fight with that cat because that cat is"
+          },
+          {
+            "start_time": "1092.668",
+            "end_time": "1097.147",
+            "text": "big and possibly scary and Sophia Do you feel like your cats that"
+          },
+          {
+            "start_time": "1097.148",
+            "end_time": "1098.118",
+            "text": "communicate with you"
+          }
+        ],
+        [
+          {
+            "start_time": "1107.888",
+            "end_time": "1112.888",
+            "text": "great so he knows his name basically. Yeah and a follow up question in that"
+          },
+          {
+            "start_time": "1112.888",
+            "end_time": "1117.207",
+            "text": ". Do cats actually know their names or do they come to like"
+          },
+          {
+            "start_time": "1117.328",
+            "end_time": "1119.487",
+            "text": "sounds or words."
+          }
+        ],
+        [
+          {
+            "start_time": "1119.487",
+            "end_time": "1123.848",
+            "text": "That's a really good question. I think you could train your cat to come to a particular"
+          },
+          {
+            "start_time": "1124.217",
+            "end_time": "1129.137",
+            "text": "sound being their name I think a lot of cats respond to our tone of voice so if you always use"
+          },
+          {
+            "start_time": "1129.138",
+            "end_time": "1133.738",
+            "text": "the same tone of voice when you call you know George so he learns that that"
+          }
+        ],
+        [
+          {
+            "start_time": "1133.767",
+            "end_time": "1136.157",
+            "text": "tone of voice means you're going to give attention"
+          },
+          {
+            "start_time": "1136.158",
+            "end_time": "1140.907",
+            "text": ". You know my husband and I had an experiment once where he thought the cats knew their name which was"
+          },
+          {
+            "start_time": "1140.908",
+            "end_time": "1145.628",
+            "text": "Cozumel and so I said he would go cousin all in the cat would come but then I started going"
+          }
+        ],
+        [
+          {
+            "start_time": "1145.628",
+            "end_time": "1149.327",
+            "text": "self in the same voice and the cat still came."
+          },
+          {
+            "start_time": "1149.328",
+            "end_time": "1154.128",
+            "text": "Yeah I've done that with my own cats to the same result so I think it"
+          },
+          {
+            "start_time": "1154.128",
+            "end_time": "1158.348",
+            "text": "really is tone of voice because we tend to exclusively use it for them."
+          }
+        ],
+        [
+          {
+            "start_time": "1170.378",
+            "end_time": "1175.117",
+            "text": "First you loved all now from the people who brought you dogs"
+          },
+          {
+            "start_time": "1175.388",
+            "end_time": "1180.138",
+            "text": "its cats cats."
+          },
+          {
+            "start_time": "1180.138",
+            "end_time": "1184.978",
+            "text": "Dogs or cleaning itself and buried it. Who say you didn't have to look at it"
+          }
+        ],
+        [
+          {
+            "start_time": "1180.138",
+            "end_time": "1184.978",
+            "text": "Dogs or cleaning itself and buried it. Who say you didn't have to look at it"
+          },
+          {
+            "start_time": "1184.977",
+            "end_time": "1188.868",
+            "text": ". Well then you're going to love cats."
+          },
+          {
+            "start_time": "1188.868",
+            "end_time": "1193.687",
+            "text": "I'm doing Donaldson and I Susan sharp. We're here to tell you about a breakthrough in"
+          }
+        ],
+        [
+          {
+            "start_time": "1193.688",
+            "end_time": "1198.127",
+            "text": "pet technology it's a new furry creature that never needs a lot and is"
+          },
+          {
+            "start_time": "1198.128",
+            "end_time": "1201.378",
+            "text": "perfectly sized for on the last cuddle cats."
+          },
+          {
+            "start_time": "1201.378",
+            "end_time": "1205.618",
+            "text": "Cats come with amazing state of the art technology like whiskers"
+          },
+          {
+            "start_time": "1205.618",
+            "end_time": "1210.508",
+            "text": ". These aren't just hair stand there like Kitty radar they're attached to"
+          }
+        ],
+        [
+          {
+            "start_time": "1205.618",
+            "end_time": "1210.508",
+            "text": ". These aren't just hair stand there like Kitty radar they're attached to"
+          },
+          {
+            "start_time": "1210.608",
+            "end_time": "1215.138",
+            "text": "very sensitive nerves and allow cats to detect the location size and"
+          },
+          {
+            "start_time": "1215.138",
+            "end_time": "1219.997",
+            "text": "texture of something just by brushing past it. They're like fingers on a face. Susan"
+          }
+        ],
+        [
+          {
+            "start_time": "1227.078",
+            "end_time": "1229.878",
+            "text": "legals intell. You drop it on its head."
+          },
+          {
+            "start_time": "1229.878",
+            "end_time": "1234.787",
+            "text": "That's no problem with cats. They're built in writing reflexes is their signature flexible spine"
+          },
+          {
+            "start_time": "1234.787",
+            "end_time": "1239.707",
+            "text": "and lack of a functional collar bone to make sure they can swing around in mid air it's almost always land"
+          }
+        ],
+        [
+          {
+            "start_time": "1245.358",
+            "end_time": "1250.047",
+            "text": "that much jumps up and slobbers all over your new shirt. Well. Groomed"
+          },
+          {
+            "start_time": "1250.047",
+            "end_time": "1252.527",
+            "text": "brows. That won't happen with cats."
+          },
+          {
+            "start_time": "1252.527",
+            "end_time": "1256.678",
+            "text": "Simply come home and they'll just sit in the corners silently judging you"
+          }
+        ],
+        [
+          {
+            "start_time": "1363.447",
+            "end_time": "1368.288",
+            "text": "about this power and why it's so hard for me to ignore. She was able to get recordings of ten"
+          },
+          {
+            "start_time": "1368.287",
+            "end_time": "1373.098",
+            "text": "cats who do this kind of solicitation purring you know every cat though it's"
+          },
+          {
+            "start_time": "1373.158",
+            "end_time": "1378.138",
+            "text": "quite a specialist and the cat who have a sort of"
+          }
+        ],
+        [
+          {
+            "start_time": "1383.057",
+            "end_time": "1384.647",
+            "text": "a lot of attention to the cat"
+          },
+          {
+            "start_time": "1384.648",
+            "end_time": "1389.418",
+            "text": ". She also got recordings of these cats non solicitation pearls which sound like"
+          },
+          {
+            "start_time": "1389.418",
+            "end_time": "1389.747",
+            "text": "this."
+          }
+        ],
+        [
+          {
+            "start_time": "1454.878",
+            "end_time": "1459.767",
+            "text": "wanted to give care because we've got a sensitivity to"
+          },
+          {
+            "start_time": "1460.047",
+            "end_time": "1465.028",
+            "text": "those sorts of signals and cats do some cool things with their vocal cords that lets them in bed"
+          },
+          {
+            "start_time": "1465.027",
+            "end_time": "1469.397",
+            "text": "the secret high pitch in their purse or the reason that they can do it. First of all the"
+          }
+        ],
+        [
+          {
+            "start_time": "1502.408",
+            "end_time": "1503.588",
+            "text": "be trying to send to you."
+          },
+          {
+            "start_time": "1506.348",
+            "end_time": "1511.137",
+            "text": "And cats are complicated creatures."
+          },
+          {
+            "start_time": "1511.138",
+            "end_time": "1516.078",
+            "text": "Their actions and behaviors like occurring pupil dilation tail puffing"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 33933,
+      "title": "It's All About Cats",
+      "description": "Cats on public radio!   Yes, it's a thing. He Made A Cat Video And You'll Never Guess What Happened Next...; The Case For Cat Citizenship; Cats Hate Your Music - Here's What They Want You To Play; The Big Cat Biologist And The Blind Date: 3-Minute Fiction; The Shocking Truth About Tiger Farms; Dogs Helped Humans Conquer The World.",
+      "date_created": "2016-01-10",
+      "date_added": "2016-01-10T12:45:11.305Z",
+      "identifier": "http://www.podtrac.com/pts/redirect.mp3/podcast.wpr.org/tbk/tbk150405a.mp3",
+      "show_id": 539,
+      "show_title": "To the Best to Our Knowledge",
+      "digital_location": "http://www.podtrac.com/pts/redirect.mp3/podcast.wpr.org/tbk/tbk150405a.mp3",
+      "physical_location": "rss",
+      "duration": 3121,
+      "updated_at": "2016-02-12T03:28:00.694Z",
+      "network": "Wisconsin Public Radio",
+      "categories": [
+        {
+          "id": 5,
+          "parent_id": null,
+          "name": "Society & Culture",
+          "name_lc": "society & culture"
+        }
+      ],
+      "audio_files": [
+        {
+          "id": 32932,
+          "mp3": "https://www.audiosear.ch/media/f5076aee4b245158e93293d6d2b189d0/0/public/audio_file/32932/tbk150405a.mp3",
+          "ogg": "https://www.audiosear.ch/media/44579c88240111ea79de98dfa8666771/0/public/audio_file/32932/tbk150405a.ogg",
+          "duration": "00:52:01",
+          "url_title": "it-s-all-about-cats",
+          "listenlen": "long"
+        }
+      ],
+      "entities": [
+        {
+          "entity": "Human Interest",
+          "category": "topic",
+          "score": 1,
+          "type": null
+        },
+        {
+          "entity": "Entertainment & Culture",
+          "category": "topic",
+          "score": 1,
+          "type": null
+        },
+        {
+          "entity": "cat",
+          "category": "tag",
+          "score": 0.9,
+          "type": null
+        }
+      ],
+      "topics": [
+        {
+          "id": 538351,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Human Interest",
+          "score": 1,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 33933,
+          "extra": "{\"original\"=>\"Human Interest\"}",
+          "created_at": "2016-01-10T12:47:01.664Z",
+          "updated_at": "2016-01-10T12:47:01.664Z"
+        },
+        {
+          "id": 538350,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Entertainment & Culture",
+          "score": 1,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 33933,
+          "extra": "{\"original\"=>\"Entertainment_Culture\"}",
+          "created_at": "2016-01-10T12:47:01.281Z",
+          "updated_at": "2016-01-10T12:47:01.281Z"
+        }
+      ],
+      "image_urls": {
+        "full": "https://s3.amazonaws.com/www-prod-popuparchive/to-the-best-to-our-knowledge.AXGvWE.popuparchive.org/mza_1113655103182419160.600x600-75.jpg?X-Amz-Expires=604800&X-Amz-Date=20160225T130805Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ6B3Q7DFQGUS2TXQ/20160225/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b0f8b4904c826b347ccbb6b184f49410bdd37497441312e5b720b5317a81b739",
+        "thumb": "https://s3.amazonaws.com/www-prod-popuparchive/to-the-best-to-our-knowledge.AXGvWE.popuparchive.org/thumb_mza_1113655103182419160.600x600-75.jpg?X-Amz-Expires=604800&X-Amz-Date=20160225T130805Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ6B3Q7DFQGUS2TXQ/20160225/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a0a6b3d096c9ada600347cd1b56dc7a79d5e1ca3e7c76c8b1fb7d8b663e6c056"
+      },
+      "contributors": [
+        {
+          "role": "creator",
+          "slug": "webmasterwprorgwisconsinpublicradio",
+          "name": "webmaster@wpr.org (Wisconsin Public Radio)",
+          "person_id": 11725,
+          "urls": {
+            "self": "https://www.audiosear.ch/api/people/11725",
+            "ui": "https://www.audiosear.ch/people/w#webmasterwprorgwisconsinpublicradio"
+          }
+        }
+      ],
+      "urls": {
+        "self": "https://www.audiosear.ch/api/episodes/33933",
+        "ui": "https://www.audiosear.ch/a/848d/it-s-all-about-cats"
+      },
+      "highlights": []
+    },
+    {
+      "id": 6575,
+      "title": "#026: Big Cats",
+      "description": "We talk about big cat attacks, killer house cats, natural language processing, where to flee if you are white, psychedelic experiences and a recent discovery of a 221 year old slave ship. More at http://talkingholes.com",
+      "date_created": "2015-06-06",
+      "date_added": "2015-06-08T02:52:00.593Z",
+      "identifier": "https://api.soundcloud.com/tracks/209055815",
+      "show_id": 323,
+      "show_title": "Talking Holes",
+      "tags": [
+        "Comedy",
+        "attacks",
+        "austin",
+        "beat",
+        "big",
+        "caitlyn",
+        "cat",
+        "class",
+        "crusaders",
+        "dmt",
+        "documentaries",
+        "exit",
+        "gift",
+        "grizzly",
+        "ibogaine",
+        "jenner",
+        "johannesburg",
+        "man",
+        "psychedelics",
+        "ship",
+        "shop",
+        "slave",
+        "texas",
+        "the",
+        "through",
+        "working"
+      ],
+      "digital_location": "http://soundcloud.com/talkingholes/026-big-cats",
+      "physical_location": "soundcloud",
+      "duration": 3779,
+      "updated_at": "2016-02-10T21:26:16.725Z",
+      "network": "Independent",
+      "categories": [
+        {
+          "id": 5,
+          "parent_id": null,
+          "name": "Society & Culture",
+          "name_lc": "society & culture"
+        }
+      ],
+      "audio_files": [
+        {
+          "id": 6574,
+          "mp3": "https://www.audiosear.ch/media/3c88239bd41414a39abf417cbb2f591e/0/public/audio_file/6574/stream.mp3",
+          "ogg": "https://www.audiosear.ch/media/53e61c0b6ca45af952c3258625c0a86c/0/public/audio_file/6574/stream.ogg",
+          "duration": "01:02:58",
+          "url_title": "026-big-cats",
+          "listenlen": "long"
+        }
+      ],
+      "image_urls": {
+        "full": "https://i1.sndcdn.com/artworks-000119366025-na49uu-t500x500.jpg",
+        "thumb": "https://i1.sndcdn.com/artworks-000119366025-na49uu-large.jpg"
+      },
+      "urls": {
+        "self": "https://www.audiosear.ch/api/episodes/6575",
+        "ui": "https://www.audiosear.ch/a/19af/026-big-cats"
+      },
+      "highlights": [
+        {
+          "url": "https://api.soundcloud.com/tracks/209055815/stream?client_id=df968aa6d731e453a4a867495d1cdb4c",
+          "id": 6574,
+          "transcript": [
+            {
+              "text": "to home a lot with three <em>cats</em> and I and",
+              "start_time": "1127.797",
+              "end_time": "1132.788"
+            },
+            {
+              "text": "know absolutely. Biting No no no no my <em>cats</em> three <em>cats</em> yes house",
+              "start_time": "1202.057",
+              "end_time": "1206.738"
+            },
+            {
+              "text": "toes are just down to tell you something if you put me in a room with all three of your <em>cats</em> that I can",
+              "start_time": "1230.277",
+              "end_time": "1234.957"
+            },
+            {
+              "text": "Why do you mind among these amazing I had no idea that <em>cats</em> could",
+              "start_time": "1353.287",
+              "end_time": "1358.038"
+            },
+            {
+              "text": "I could hurt it so I'm going to be more gentle like that's. That's all they see in the <em>cats</em>",
+              "start_time": "1363.017",
+              "end_time": "1367.798"
+            }
+          ]
+        }
+      ],
+      "excerpts": [
+        [
+          {
+            "start_time": "1122.668",
+            "end_time": "1127.127",
+            "text": ". Yeah so it's like oversized days because I don't because I work from home"
+          },
+          {
+            "start_time": "1127.797",
+            "end_time": "1132.788",
+            "text": "to home a lot with three cats and I and"
+          },
+          {
+            "start_time": "1132.787",
+            "end_time": "1137.517",
+            "text": "then they've literally raised a nice you know like like six girls got wet right now."
+          }
+        ],
+        [
+          {
+            "start_time": "1197.158",
+            "end_time": "1202.058",
+            "text": "the thing I think was a kitten he was just playing and hurt you though didn't know he could tell her. Maybe but I"
+          },
+          {
+            "start_time": "1202.057",
+            "end_time": "1206.738",
+            "text": "know absolutely. Biting No no no no my cats three cats yes house"
+          },
+          {
+            "start_time": "1206.938",
+            "end_time": "1210.977",
+            "text": "if they all decided they wanted me dead they could kill me easily."
+          }
+        ],
+        [
+          {
+            "start_time": "1225.547",
+            "end_time": "1230.278",
+            "text": "matter it would be comical that we really come into something you'll need to cast this lens for your"
+          },
+          {
+            "start_time": "1230.277",
+            "end_time": "1234.957",
+            "text": "toes are just down to tell you something if you put me in a room with all three of your cats that I can"
+          },
+          {
+            "start_time": "1235.138",
+            "end_time": "1239.598",
+            "text": "I go away no that's that's not that's not how this would happen my friend OK"
+          }
+        ],
+        [
+          {
+            "start_time": "1351.297",
+            "end_time": "1352.138",
+            "text": "OK but."
+          },
+          {
+            "start_time": "1353.287",
+            "end_time": "1358.038",
+            "text": "Why do you mind among these amazing I had no idea that cats could"
+          },
+          {
+            "start_time": "1358.138",
+            "end_time": "1362.987",
+            "text": "like make a difference in their head and say that's a human hand there"
+          }
+        ],
+        [
+          {
+            "start_time": "1358.138",
+            "end_time": "1362.987",
+            "text": "like make a difference in their head and say that's a human hand there"
+          },
+          {
+            "start_time": "1363.017",
+            "end_time": "1367.798",
+            "text": "I could hurt it so I'm going to be more gentle like that's. That's all they see in the cats"
+          },
+          {
+            "start_time": "1367.797",
+            "end_time": "1369.837",
+            "text": "making that's all they were not just like food."
+          }
+        ],
+        [
+          {
+            "start_time": "1446.227",
+            "end_time": "1451.097",
+            "text": "end of English is not my thing was the can I live a cat"
+          },
+          {
+            "start_time": "1451.098",
+            "end_time": "1456.077",
+            "text": "so I'm kind of have a strange nightmares phobia that my cats would"
+          },
+          {
+            "start_time": "1456.408",
+            "end_time": "1460.558",
+            "text": "gang up on me for some reason emo girl Cisco it like you would be so set right."
+          }
+        ],
+        [
+          {
+            "start_time": "1456.408",
+            "end_time": "1460.558",
+            "text": "gang up on me for some reason emo girl Cisco it like you would be so set right."
+          },
+          {
+            "start_time": "1461.547",
+            "end_time": "1466.188",
+            "text": "Abstractly like I love my cats like hardcore love my cats if they start"
+          },
+          {
+            "start_time": "1466.188",
+            "end_time": "1468.648",
+            "text": "attacking me a day."
+          }
+        ],
+        [
+          {
+            "start_time": "1495.918",
+            "end_time": "1498.447",
+            "text": "Like Kate Upton of Castle"
+          },
+          {
+            "start_time": "1501.888",
+            "end_time": "1506.817",
+            "text": "and Jennifer Lawrence of cats pretty hot like nine or ten"
+          },
+          {
+            "start_time": "1506.818",
+            "end_time": "1510.988",
+            "text": "legs a lot of how big as big as you want to"
+          }
+        ],
+        [
+          {
+            "start_time": "1602.067",
+            "end_time": "1606.967",
+            "text": "Another way to get you know the man who took away the"
+          },
+          {
+            "start_time": "1606.967",
+            "end_time": "1611.917",
+            "text": "opportunity to make fun of the Broadway production cats and that really hurts. We couldn't make it"
+          },
+          {
+            "start_time": "1612.667",
+            "end_time": "1617.667",
+            "text": "sound like you found jokes. And once you find the jokes I don't move on didn't"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 44698,
+      "title": "MMem 0509: Learn the world’s cats by population!",
+      "description": " Learn the world's cats by population, species, and geographic distribution in this episode! I describe a mnemonic method for memorizing all this information about all the cats of the world. \n What do you want to learn? Leave your question at http://MasterOfMemory.com/. \n Music credit: Maurice Ravel's String Quartet, 2nd movement, performed by the US Army Band. \n The post <a href=\"http://masterofmemory.com/mmem-0509-learn-the-worlds-cats-by-population/\">MMem 0509: Learn the world’s cats by population!</a> appeared first on <a href=\"http://masterofmemory.com\">Master of Memory: Accelerated learning, education, memorization</a>. ",
+      "date_created": "2016-02-18",
+      "date_added": "2016-02-19T13:36:58.698Z",
+      "identifier": "http://masterofmemory.com/?p=5524",
+      "show_id": 1584,
+      "show_title": "Master of Memory: Accelerated learning, education, memorization",
+      "digital_location": "http://masterofmemory.com/mmem-0509-learn-the-worlds-cats-by-population/",
+      "physical_location": "rss",
+      "duration": 739,
+      "updated_at": "2016-02-19T22:05:15.197Z",
+      "network": "Timothy Moser: Educator, accelerated learning expert, and mnemonist",
+      "categories": [
+        {
+          "id": 35,
+          "parent_id": 9,
+          "name": "Higher Education",
+          "name_lc": "higher education"
+        }
+      ],
+      "audio_files": [
+        {
+          "id": 43917,
+          "mp3": "https://www.audiosear.ch/media/a77499f4e02364715da9301f33494721/0/public/audio_file/43917/MMem0509.mp3",
+          "ogg": "https://www.audiosear.ch/media/73734a23b3ff6b73a35ccd0822939393/0/public/audio_file/43917/MMem0509.ogg",
+          "duration": "00:12:19",
+          "url_title": "mmem-0509-learn-the-world-s-cats-by-population",
+          "listenlen": "medium"
+        }
+      ],
+      "entities": [
+        {
+          "entity": "Entertainment & Culture",
+          "category": "topic",
+          "score": 1,
+          "type": null
+        },
+        {
+          "entity": "United States Army",
+          "category": "entity",
+          "score": 1,
+          "type": "Organization"
+        },
+        {
+          "entity": "Maurice Ravel",
+          "category": "entity",
+          "score": 1,
+          "type": "Person"
+        },
+        {
+          "entity": "educational psychology",
+          "category": "tag",
+          "score": 0.9,
+          "type": null
+        },
+        {
+          "entity": "memory",
+          "category": "tag",
+          "score": 0.9,
+          "type": null
+        },
+        {
+          "entity": "neuropsychological assessment",
+          "category": "tag",
+          "score": 0.9,
+          "type": null
+        },
+        {
+          "entity": "string quartet",
+          "category": "tag",
+          "score": 0.7,
+          "type": null
+        },
+        {
+          "entity": "mnemonic",
+          "category": "tag",
+          "score": 0.7,
+          "type": null
+        },
+        {
+          "entity": "cat",
+          "category": "tag",
+          "score": 0.7,
+          "type": null
+        },
+        {
+          "entity": "maurice ravel",
+          "category": "tag",
+          "score": 0.7,
+          "type": null
+        }
+      ],
+      "topics": [
+        {
+          "id": 603279,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Entertainment & Culture",
+          "score": 1,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 44698,
+          "extra": "{\"original\"=>\"Entertainment_Culture\"}",
+          "created_at": "2016-02-19T19:26:18.723Z",
+          "updated_at": "2016-02-19T19:26:18.723Z"
+        }
+      ],
+      "image_urls": {
+        "full": "https://s3.amazonaws.com/www-prod-popuparchive/master-of-memory-accelerated-learning-education.B9yMXC.popuparchive.org/600x600bb.jpg?X-Amz-Expires=604800&X-Amz-Date=20160225T131705Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ6B3Q7DFQGUS2TXQ/20160225/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=58c1df85195dad5ac2995298ecfa93bf07a7f6862b943950fa41e7db47ffad00",
+        "thumb": "https://s3.amazonaws.com/www-prod-popuparchive/master-of-memory-accelerated-learning-education.B9yMXC.popuparchive.org/thumb_600x600bb.jpg?X-Amz-Expires=604800&X-Amz-Date=20160225T131705Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ6B3Q7DFQGUS2TXQ/20160225/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=40ccea6549a8a2ec3d1f346bcbb83d6ab4c538f9a9d37909fc647f95841f4d58"
+      },
+      "contributors": [
+        {
+          "role": "mentioned",
+          "slug": "mauriceravel",
+          "name": "Maurice Ravel",
+          "person_id": 22270,
+          "urls": {
+            "self": "https://www.audiosear.ch/api/people/22270",
+            "ui": "https://www.audiosear.ch/people/m#mauriceravel"
+          }
+        }
+      ],
+      "urls": {
+        "self": "https://www.audiosear.ch/api/episodes/44698",
+        "ui": "https://www.audiosear.ch/a/ae9a/mmem-0509-learn-the-world-s-cats-by-population"
+      },
+      "highlights": []
+    },
+    {
+      "id": 23541,
+      "title": "EPISODE 121 - Why Are Cats So Insanely Afraid of Cucumbers?",
+      "description": "10 Unanswered Questions from WW2\nWhy are Cats so Insanely Afraid of Cucumbers\nA Brief History of the Haunted House\nThe Strange Legend of Fred Fisher\n220 Year Old Apple Tree\nSingle Eyed Newborn\nRitual Caves Found on Witchcraft Island\nAstronomers Spot Mysterious System 1600 Light Years Away\nScientists Think a Whole New Type of Life Form Could Be Living in Our Guts\nThe Top Secret Document written by Oppenheimer and Einstein on Aliens and UFOs\nOne Word Story Creepypasta",
+      "date_created": "2015-11-17",
+      "date_added": "2015-11-22T01:49:18.239Z",
+      "identifier": "http://recordings.talkshoe.com/TC-21864/TS-1030013.mp3",
+      "show_id": 1061,
+      "show_title": "Mysteries Abound",
+      "digital_location": "http://recordings.talkshoe.com/TC-21864/TS-1030013.mp3",
+      "physical_location": "rss",
+      "duration": 4741,
+      "updated_at": "2016-02-12T03:23:50.766Z",
+      "network": "Paulrex",
+      "categories": [
+        {
+          "id": 64,
+          "parent_id": 10,
+          "name": "Natural Sciences",
+          "name_lc": "natural sciences"
+        }
+      ],
+      "audio_files": [
+        {
+          "id": 23160,
+          "mp3": "https://www.audiosear.ch/media/7266b7e188627991aa0dc5647fc5b007/0/public/audio_file/23160/TS-1030013.mp3",
+          "ogg": "https://www.audiosear.ch/media/c5eb4004212d654d8ab3cec819603103/0/public/audio_file/23160/TS-1030013.ogg",
+          "duration": "01:19:01",
+          "url_title": "episode-121--why-are-cats-so-insanely-afraid-of-cucumbers",
+          "listenlen": "long"
+        }
+      ],
+      "entities": [
+        {
+          "entity": "Fred Fisher",
+          "category": "entity",
+          "score": 1,
+          "type": "Person"
+        },
+        {
+          "entity": "Human Interest",
+          "category": "topic",
+          "score": 1,
+          "type": null
+        },
+        {
+          "entity": "urban legend",
+          "category": "tag",
+          "score": 0.9,
+          "type": null
+        },
+        {
+          "entity": "unidentified flying object",
+          "category": "tag",
+          "score": 0.9,
+          "type": null
+        },
+        {
+          "entity": "extraterrestrials in fiction",
+          "category": "tag",
+          "score": 0.7,
+          "type": null
+        },
+        {
+          "entity": "witchcraft",
+          "category": "tag",
+          "score": 0.7,
+          "type": null
+        }
+      ],
+      "topics": [
+        {
+          "id": 467888,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Human Interest",
+          "score": 1,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 23541,
+          "extra": "{\"original\"=>\"Human Interest\"}",
+          "created_at": "2015-11-22T04:23:30.024Z",
+          "updated_at": "2015-11-22T04:23:30.024Z"
+        }
+      ],
+      "image_urls": {
+        "full": "https://s3.amazonaws.com/www-prod-popuparchive/mysteries-abound.OPgzTG.popuparchive.org/600x600bb.jpg?X-Amz-Expires=604800&X-Amz-Date=20160225T133626Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ6B3Q7DFQGUS2TXQ/20160225/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8a9962d62d78f14eb2fe1467d2139d8f41cac88c47e02870fc4eb89d792607dd",
+        "thumb": "https://s3.amazonaws.com/www-prod-popuparchive/mysteries-abound.OPgzTG.popuparchive.org/thumb_600x600bb.jpg?X-Amz-Expires=604800&X-Amz-Date=20160225T133626Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ6B3Q7DFQGUS2TXQ/20160225/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1de4b1c3698f7fb7e6bb1e62232808b17e421e49d00299872449c50f687dacda"
+      },
+      "contributors": [
+        {
+          "role": "mentioned",
+          "slug": "fredfisher",
+          "name": "Fred Fisher",
+          "person_id": 2055,
+          "urls": {
+            "self": "https://www.audiosear.ch/api/people/2055",
+            "ui": "https://www.audiosear.ch/people/f#fredfisher"
+          }
+        },
+        {
+          "role": "creator",
+          "slug": "infotalkshoecom",
+          "name": "info@talkshoe.com",
+          "person_id": 18476,
+          "urls": {
+            "self": "https://www.audiosear.ch/api/people/18476",
+            "ui": "https://www.audiosear.ch/people/i#infotalkshoecom"
+          }
+        }
+      ],
+      "urls": {
+        "self": "https://www.audiosear.ch/api/episodes/23541",
+        "ui": "https://www.audiosear.ch/a/5bf5/episode-121--why-are-cats-so-insanely-afraid-of-cucumbers"
+      },
+      "highlights": []
+    },
+    {
+      "id": 32889,
+      "title": "Big Cats and People Live in Close Quarters in India",
+      "description": "The numbers of large carnivores, especially leopards, are increasing in private lands and lands outside the protected-area systems in India, bringing new challenges for coexistence \n ",
+      "date_created": "2016-01-05",
+      "date_added": "2016-01-06T10:18:51.669Z",
+      "identifier": "728261A8-A9B5-4AC5-B0FA508575A3FCEF",
+      "show_id": 1643,
+      "show_title": "60-Second Science",
+      "digital_location": "http://www.scientificamerican.com/podcast/episode/big-cats-and-people-live-in-close-quarters-in-india/",
+      "physical_location": "rss",
+      "duration": 135,
+      "updated_at": "2016-02-12T01:38:01.222Z",
+      "network": "Scientific American",
+      "categories": [
+        {
+          "id": 64,
+          "parent_id": 10,
+          "name": "Natural Sciences",
+          "name_lc": "natural sciences"
+        }
+      ],
+      "audio_files": [
+        {
+          "id": 31983,
+          "mp3": "https://www.audiosear.ch/media/32a9a65b76c6ccd93aa0383063c3710d/0/public/audio_file/31983/podcast.mp3",
+          "ogg": "https://www.audiosear.ch/media/b0172b6ec78b51bc0403ecd272b4d329/0/public/audio_file/31983/podcast.ogg",
+          "duration": "00:02:15",
+          "url_title": "big-cats-and-people-live-in-close-quarters-in-india",
+          "listenlen": "short"
+        }
+      ],
+      "entities": [
+        {
+          "entity": "Environment",
+          "category": "topic",
+          "score": 0.907,
+          "type": null
+        },
+        {
+          "entity": "carnivore",
+          "category": "tag",
+          "score": 0.9,
+          "type": null
+        },
+        {
+          "entity": "leopard",
+          "category": "tag",
+          "score": 0.9,
+          "type": null
+        }
+      ],
+      "topics": [
+        {
+          "id": 532806,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Environment",
+          "score": 0.907,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 32889,
+          "extra": "{\"original\"=>\"Environment\"}",
+          "created_at": "2016-01-06T10:19:26.833Z",
+          "updated_at": "2016-01-06T10:19:26.833Z"
+        }
+      ],
+      "image_urls": {
+        "full": "https://s3.amazonaws.com/www-prod-popuparchive/60-second-science.5dpU3y.popuparchive.org/600x600bb.jpg?X-Amz-Expires=604800&X-Amz-Date=20160225T130451Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ6B3Q7DFQGUS2TXQ/20160225/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3aded41bd24b4d814fa97c83effdb35adcd931c3b2600dd5bf6f9ffce27dba62",
+        "thumb": "https://s3.amazonaws.com/www-prod-popuparchive/60-second-science.5dpU3y.popuparchive.org/thumb_600x600bb.jpg?X-Amz-Expires=604800&X-Amz-Date=20160225T130451Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ6B3Q7DFQGUS2TXQ/20160225/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5874a36930cea67da0d9475b2279f0c42ae961cb028d4e3e5fc5fa0b6410b90c"
+      },
+      "urls": {
+        "self": "https://www.audiosear.ch/api/episodes/32889",
+        "ui": "https://www.audiosear.ch/a/8079/big-cats-and-people-live-in-close-quarters-in-india"
+      },
+      "highlights": []
+    },
+    {
+      "id": 14897,
+      "title": "Life In A Traveling Cat Circus",
+      "description": "In this purrrcast we talk to Samantha Martin, founder of the Amazing Acro-Cats, a traveling cat circus. She describes her transformation from Chicago’s “rat lady” to a nationally celebrated cat lady, how to get cats to play musical instruments, and what life on the road with 14 felines is really like.",
+      "date_created": "2015-07-23",
+      "date_added": "2015-07-25T09:04:26.034Z",
+      "identifier": "https://api.soundcloud.com/tracks/216052974",
+      "show_id": 118,
+      "show_title": "The Huffington Post",
+      "tags": [
+        "Acro-Cats",
+        "Cat Circus",
+        "Chicago's Rat Lady",
+        "Samantha Martin"
+      ],
+      "digital_location": "http://soundcloud.com/the-huffington-post/life-in-a-traveling-cat-circus",
+      "physical_location": "soundcloud",
+      "duration": 1761,
+      "updated_at": "2015-07-30T03:26:20.654Z",
+      "network": "The Huffington Post",
+      "categories": [
+        {
+          "id": 7,
+          "parent_id": null,
+          "name": "News & Politics",
+          "name_lc": "news & politics"
+        }
+      ],
+      "audio_files": [
+        {
+          "id": 14805,
+          "mp3": "https://www.audiosear.ch/media/6b350af3b0f0a4550d3ef7c36d01eb55/0/public/audio_file/14805/stream.mp3",
+          "ogg": "https://www.audiosear.ch/media/27b1222e3ff5fced5b5f8d4c157490d8/0/public/audio_file/14805/stream.ogg",
+          "duration": "00:29:20",
+          "url_title": "life-in-a-traveling-cat-circus",
+          "listenlen": "medium"
+        }
+      ],
+      "entities": [
+        {
+          "entity": "Samantha Morton",
+          "category": "entity",
+          "score": 1,
+          "type": "Person"
+        },
+        {
+          "entity": "the New York Times",
+          "category": "entity",
+          "score": 1,
+          "type": "Published Medium"
+        },
+        {
+          "entity": "Petco",
+          "category": "entity",
+          "score": 1,
+          "type": "Company"
+        },
+        {
+          "entity": "the New York Times",
+          "category": "entity",
+          "score": 1,
+          "type": "Company"
+        },
+        {
+          "entity": "Cats",
+          "category": "topic",
+          "score": 1,
+          "type": null
+        },
+        {
+          "entity": "Chuck Norris",
+          "category": "entity",
+          "score": 0.961,
+          "type": "Person"
+        },
+        {
+          "entity": "Pets",
+          "category": "topic",
+          "score": 0.943396,
+          "type": null
+        },
+        {
+          "entity": "Hobbies and Personal Activities",
+          "category": "topic",
+          "score": 0.9375,
+          "type": null
+        },
+        {
+          "entity": "Human Interest",
+          "category": "topic",
+          "score": 0.904,
+          "type": null
+        },
+        {
+          "entity": "Chicago",
+          "category": "location",
+          "score": 0.872502869549156,
+          "type": "City"
+        },
+        {
+          "entity": "New York",
+          "category": "entity",
+          "score": 0.582,
+          "type": "Place"
+        },
+        {
+          "entity": "India",
+          "category": "location",
+          "score": 0.262649535037194,
+          "type": "Country"
+        }
+      ],
+      "locations": [
+        {
+          "id": 353675,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/03ff2f32-7d79-3042-a299-2010505bc8fc",
+          "name": "Chicago",
+          "score": 0.872502869549156,
+          "category": "location",
+          "entity_type": "City",
+          "item_id": 14897,
+          "extra": "{\"latitude\"=>\"41.85\", \"longitude\"=>\"-87.65\", \"country\"=>\"United States\", \"state\"=>\"Illinois\"}",
+          "created_at": "2015-07-30T03:26:17.720Z",
+          "updated_at": "2015-07-30T03:26:17.720Z"
+        },
+        {
+          "id": 353676,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/69b2e356-c1e7-3f3b-bab3-676f21d08e4d",
+          "name": "India",
+          "score": 0.262649535037194,
+          "category": "location",
+          "entity_type": "Country",
+          "item_id": 14897,
+          "extra": "{\"latitude\"=>\"21.7678895778\", \"longitude\"=>\"78.8717605778\"}",
+          "created_at": "2015-07-30T03:26:18.255Z",
+          "updated_at": "2015-07-30T03:26:18.255Z"
+        }
+      ],
+      "topics": [
+        {
+          "id": 353677,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Human Interest",
+          "score": 0.904,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 14897,
+          "extra": "{\"original\"=>\"Human Interest\"}",
+          "created_at": "2015-07-30T03:26:19.088Z",
+          "updated_at": "2015-07-30T03:26:19.088Z"
+        },
+        {
+          "id": 353678,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Cats",
+          "score": 1,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 14897,
+          "extra": "{\"original\"=>\"Cats\"}",
+          "created_at": "2015-07-30T03:26:19.584Z",
+          "updated_at": "2015-07-30T03:26:19.584Z"
+        },
+        {
+          "id": 353679,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Pets",
+          "score": 0.943396,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 14897,
+          "extra": "{\"original\"=>\"Pets\"}",
+          "created_at": "2015-07-30T03:26:20.086Z",
+          "updated_at": "2015-07-30T03:26:20.086Z"
+        },
+        {
+          "id": 353680,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Hobbies and Personal Activities",
+          "score": 0.9375,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 14897,
+          "extra": "{\"original\"=>\"Hobbies & Personal Activities\"}",
+          "created_at": "2015-07-30T03:26:20.583Z",
+          "updated_at": "2015-07-30T03:26:20.583Z"
+        }
+      ],
+      "image_urls": {
+        "full": "https://i1.sndcdn.com/artworks-000124159273-ncx338-t500x500.jpg",
+        "thumb": "https://i1.sndcdn.com/artworks-000124159273-ncx338-large.jpg"
+      },
+      "urls": {
+        "self": "https://www.audiosear.ch/api/episodes/14897",
+        "ui": "https://www.audiosear.ch/a/3a31/life-in-a-traveling-cat-circus"
+      },
+      "highlights": [
+        {
+          "url": "https://api.soundcloud.com/tracks/216052974/stream?client_id=df968aa6d731e453a4a867495d1cdb4c",
+          "id": 14805,
+          "transcript": [
+            {
+              "text": "weirdness podcast we are here with seven <em>cats</em> two kittens and",
+              "start_time": "38.617",
+              "end_time": "43.577"
+            },
+            {
+              "text": "We are with the agro <em>cats</em> the amazing acrobats performing circus <em>cats</em>",
+              "start_time": "47.508",
+              "end_time": "52.258"
+            },
+            {
+              "text": "standing room only audience we saw these are <em>cats</em> are rescues.",
+              "start_time": "69.438",
+              "end_time": "74.207"
+            },
+            {
+              "text": "bottle babies and they turned into <em>cats</em> vets that",
+              "start_time": "81.037",
+              "end_time": "85.317"
+            },
+            {
+              "text": "perform that right skateboards <em>cats</em> that do its height",
+              "start_time": "85.368",
+              "end_time": "89.927"
+            }
+          ]
+        }
+      ],
+      "excerpts": [
+        [
+          {
+            "start_time": "33.718",
+            "end_time": "38.347",
+            "text": "Style closet in the corner of the folks this is post"
+          },
+          {
+            "start_time": "38.617",
+            "end_time": "43.577",
+            "text": "weirdness podcast we are here with seven cats two kittens and"
+          },
+          {
+            "start_time": "43.578",
+            "end_time": "47.507",
+            "text": "a rooster and one cat that rings a bell name to it."
+          }
+        ],
+        [
+          {
+            "start_time": "43.578",
+            "end_time": "47.507",
+            "text": "a rooster and one cat that rings a bell name to it."
+          },
+          {
+            "start_time": "47.508",
+            "end_time": "52.258",
+            "text": "We are with the agro cats the amazing acrobats performing circus cats"
+          },
+          {
+            "start_time": "52.648",
+            "end_time": "55.067",
+            "text": "I mean with Hillary and my colleague and cat lover."
+          }
+        ],
+        [
+          {
+            "start_time": "64.688",
+            "end_time": "69.438",
+            "text": "downstairs. Everyone loved it. You had it you were playing to a"
+          },
+          {
+            "start_time": "69.438",
+            "end_time": "74.207",
+            "text": "standing room only audience we saw these are cats are rescues."
+          },
+          {
+            "start_time": "76.047",
+            "end_time": "81.037",
+            "text": "Straight is adopted. Adoptions or rescues you know since I specialize in"
+          }
+        ],
+        [
+          {
+            "start_time": "76.047",
+            "end_time": "81.037",
+            "text": "Straight is adopted. Adoptions or rescues you know since I specialize in"
+          },
+          {
+            "start_time": "81.037",
+            "end_time": "85.317",
+            "text": "bottle babies and they turned into cats vets that"
+          },
+          {
+            "start_time": "85.368",
+            "end_time": "89.927",
+            "text": "perform that right skateboards cats that do its height"
+          },
+          {
+            "start_time": "90.207",
+            "end_time": "95.137",
+            "text": "back cats the better the balance on balls cats that do all sorts of amazing"
+          },
+          {
+            "start_time": "95.138",
+            "end_time": "99.948",
+            "text": "things and you train them with essentially with love you have you"
+          }
+        ],
+        [
+          {
+            "start_time": "104.797",
+            "end_time": "106.698",
+            "text": "cats live with you"
+          },
+          {
+            "start_time": "106.698",
+            "end_time": "111.547",
+            "text": ". These and others here yes there are a few more you live in a home in Chicago"
+          }
+        ],
+        [
+          {
+            "start_time": "106.698",
+            "end_time": "111.547",
+            "text": ". These and others here yes there are a few more you live in a home in Chicago"
+          },
+          {
+            "start_time": "111.547",
+            "end_time": "116.397",
+            "text": "with I have there's eighteen cats total and fourteen of them are"
+          },
+          {
+            "start_time": "116.397",
+            "end_time": "121.297",
+            "text": "with me on the road currently. Plus we have foster kittens because we do foster and rescue."
+          }
+        ],
+        [
+          {
+            "start_time": "121.838",
+            "end_time": "126.708",
+            "text": "So yes there are like eighteen plus the two fosters"
+          },
+          {
+            "start_time": "126.707",
+            "end_time": "128.997",
+            "text": "so there's twenty cats right now in my life."
+          },
+          {
+            "start_time": "129.637",
+            "end_time": "133.027",
+            "text": "Hilary just so show what you think it was amazing."
+          }
+        ],
+        [
+          {
+            "start_time": "196.257",
+            "end_time": "199.528",
+            "text": "I can really hot dogs on"
+          },
+          {
+            "start_time": "199.528",
+            "end_time": "203.787",
+            "text": ". The ground. I'll get along with all the cats."
+          },
+          {
+            "start_time": "203.787",
+            "end_time": "208.687",
+            "text": "Fine I mean the Ground Hog is almost like a cat because he uses a litter box he can"
+          }
+        ],
+        [
+          {
+            "start_time": "208.688",
+            "end_time": "213.497",
+            "text": "wow what a cat He's very mellow if you can make it on a bus"
+          },
+          {
+            "start_time": "213.778",
+            "end_time": "218.687",
+            "text": "with fourteen cats a chicken in cluck Norris and that's a rooster. Chuck Norris is"
+          },
+          {
+            "start_time": "219.507",
+            "end_time": "224.417",
+            "text": "actually of the female track cluck NORRIS Yeah yeah yeah but ours is a bad"
+          }
+        ],
+        [
+          {
+            "start_time": "219.507",
+            "end_time": "224.417",
+            "text": "actually of the female track cluck NORRIS Yeah yeah yeah but ours is a bad"
+          },
+          {
+            "start_time": "224.417",
+            "end_time": "229.408",
+            "text": "ass. I mean that that chick and those cats are afraid of cluck Norris. If anyone"
+          },
+          {
+            "start_time": "229.808",
+            "end_time": "234.507",
+            "text": "we do not worry about the cats eating like Norris we worry about"
+          },
+          {
+            "start_time": "234.768",
+            "end_time": "239.717",
+            "text": "cluck Norris going after the cat and how does the head of the rats get along with the other"
+          }
+        ],
+        [
+          {
+            "start_time": "239.838",
+            "end_time": "244.728",
+            "text": "animals. The Raptor does indifferent really you know they don't get scared."
+          },
+          {
+            "start_time": "244.727",
+            "end_time": "249.727",
+            "text": "No and because of it. When they're. When the cats were kittens. A"
+          },
+          {
+            "start_time": "249.727",
+            "end_time": "254.307",
+            "text": "lot of times they would walk over the rat cage and the rats would would bite their"
+          }
+        ],
+        [
+          {
+            "start_time": "297.488",
+            "end_time": "302.248",
+            "text": "house or a I'm going to go to college and I watch a movie I'm like OK bring the kittens are like of"
+          },
+          {
+            "start_time": "302.248",
+            "end_time": "306.917",
+            "text": "course of course. So I cart those cats everywhere when they're young and so they are"
+          },
+          {
+            "start_time": "306.918",
+            "end_time": "310.817",
+            "text": "so used to traveling on the bus or sleeping we're the ones that are uncomfortable."
+          }
+        ],
+        [
+          {
+            "start_time": "306.918",
+            "end_time": "310.817",
+            "text": "so used to traveling on the bus or sleeping we're the ones that are uncomfortable."
+          },
+          {
+            "start_time": "311.848",
+            "end_time": "316.367",
+            "text": "Now you were saying during the show that the cats have much more space in the R.V. than you guys do right."
+          },
+          {
+            "start_time": "316.368",
+            "end_time": "321.228",
+            "text": "Oh yes yes they have the back there or they have the master bedroom of the bus and it's all decked"
+          }
+        ],
+        [
+          {
+            "start_time": "330.647",
+            "end_time": "335.317",
+            "text": "system back their temperature controlled so they are in heaven."
+          },
+          {
+            "start_time": "335.317",
+            "end_time": "340.238",
+            "text": "The first thing we talked about when we were when we were going to have the Aqua cats here is you"
+          },
+          {
+            "start_time": "340.238",
+            "end_time": "344.958",
+            "text": "know are you a good cat trainer or a cat"
+          }
+        ],
+        [
+          {
+            "start_time": "355.998",
+            "end_time": "358.717",
+            "text": "Yes First they actually they really want."
+          },
+          {
+            "start_time": "358.717",
+            "end_time": "363.587",
+            "text": "Question I did cluck Norris is not aware of what the cats are eating right around"
+          },
+          {
+            "start_time": "363.587",
+            "end_time": "364.255",
+            "text": "her excuse me."
+          }
+        ],
+        [
+          {
+            "start_time": "363.587",
+            "end_time": "364.255",
+            "text": "her excuse me."
+          },
+          {
+            "start_time": "365.457",
+            "end_time": "370.318",
+            "text": "Yes yes she's really you know oblivious and the cats don't like raw chicken the chicken has to be"
+          },
+          {
+            "start_time": "370.317",
+            "end_time": "374.978",
+            "text": "cooked. Oh I see yeah. So they're very particular. Yeah yeah they like"
+          }
+        ],
+        [
+          {
+            "start_time": "384.988",
+            "end_time": "389.297",
+            "text": "middle and the chicken if it's too dry you get all sorts of complaints later."
+          },
+          {
+            "start_time": "389.298",
+            "end_time": "393.547",
+            "text": "Is it like this in your home which is crawling with cats literally."
+          },
+          {
+            "start_time": "393.548",
+            "end_time": "397.998",
+            "text": "Oh yeah exactly I mean this is kind of how it all started was I had all this stuff in my home"
+          }
+        ],
+        [
+          {
+            "start_time": "417.538",
+            "end_time": "422.388",
+            "text": "tenant. Occasionally and then I actually did take a roommate because I wanted someone to look after the"
+          },
+          {
+            "start_time": "422.387",
+            "end_time": "427.387",
+            "text": "cats that are home while I'm gone. So they're saying because not only on the road."
+          },
+          {
+            "start_time": "427.387",
+            "end_time": "432.288",
+            "text": "Yeah so we you know we kind of get you know get some of the breaks or if a cat's not working"
+          }
+        ],
+        [
+          {
+            "start_time": "427.387",
+            "end_time": "432.288",
+            "text": "Yeah so we you know we kind of get you know get some of the breaks or if a cat's not working"
+          },
+          {
+            "start_time": "432.288",
+            "end_time": "437.028",
+            "text": "out on the road you know it's really what's best for each cat so some of the cats really"
+          },
+          {
+            "start_time": "437.027",
+            "end_time": "441.887",
+            "text": "thrive being in the show in the show and being on the road meeting people other cats are like"
+          },
+          {
+            "start_time": "441.887",
+            "end_time": "446.767",
+            "text": "I really want to be more of a homebody so the cats don't really want to tour can stay stay back"
+          },
+          {
+            "start_time": "446.767",
+            "end_time": "451.228",
+            "text": "home and you know do production work and you know the occasional tidy cats and Purina"
+          },
+          {
+            "start_time": "451.527",
+            "end_time": "456.247",
+            "text": "addon and whatever job comes along they still like to work they still like that"
+          }
+        ],
+        [
+          {
+            "start_time": "804.247",
+            "end_time": "808.718",
+            "text": "they're sniffing out land mines. Yeah you know all right how did you transition from rats to"
+          },
+          {
+            "start_time": "808.717",
+            "end_time": "809.927",
+            "text": "cats."
+          },
+          {
+            "start_time": "809.928",
+            "end_time": "814.858",
+            "text": "Well you know I discovered I could make a living just for hep there's no rags"
+          }
+        ],
+        [
+          {
+            "start_time": "949.668",
+            "end_time": "954.577",
+            "text": "have a groundhog still that's probably when I eventually moved away from"
+          },
+          {
+            "start_time": "954.638",
+            "end_time": "959.437",
+            "text": "I basically quit my job as a fulltime zookeeper and devoted myself to the cats about ten"
+          },
+          {
+            "start_time": "959.438",
+            "end_time": "964.278",
+            "text": "years ago and and I kept the groundhog because they're all"
+          }
+        ],
+        [
+          {
+            "start_time": "1018.197",
+            "end_time": "1023.097",
+            "text": "and it was around that time period that I started you know kind of making me a thinking about Trista"
+          },
+          {
+            "start_time": "1023.197",
+            "end_time": "1028.138",
+            "text": "strange cats that's worked at the cats more and to know just took to it right away."
+          },
+          {
+            "start_time": "1028.138",
+            "end_time": "1032.867",
+            "text": "I mean within you know within six weeks or first six weeks of life"
+          }
+        ],
+        [
+          {
+            "start_time": "1066.707",
+            "end_time": "1069.858",
+            "text": "seem to do well. You've probably seen or"
+          },
+          {
+            "start_time": "1071.517",
+            "end_time": "1076.168",
+            "text": "done some for you know some tidy cats and pet stages. See"
+          },
+          {
+            "start_time": "1076.197",
+            "end_time": "1080.998",
+            "text": "Mer coats and Alex is new to mix kitten from"
+          }
+        ],
+        [
+          {
+            "start_time": "1090.267",
+            "end_time": "1094.618",
+            "text": "places. I remember being on a flight and opening up Sky Mall"
+          },
+          {
+            "start_time": "1094.618",
+            "end_time": "1099.328",
+            "text": "magazine and seeing one of my cats and one of the advertisements it was really exciting"
+          },
+          {
+            "start_time": "1099.328",
+            "end_time": "1102.778",
+            "text": "moment I nudge the stranger next to me as a cat"
+          }
+        ],
+        [
+          {
+            "start_time": "1184.638",
+            "end_time": "1189.638",
+            "text": "the best attitude I mean she is when you you know for the show you know if"
+          },
+          {
+            "start_time": "1189.638",
+            "end_time": "1194.498",
+            "text": "you look in it because the cats are in their crates you know during the show."
+          },
+          {
+            "start_time": "1194.757",
+            "end_time": "1199.418",
+            "text": "They cut they go from the crate out to do their trick and then back because that's kind of their safe"
+          }
+        ],
+        [
+          {
+            "start_time": "1220.378",
+            "end_time": "1225.208",
+            "text": "training is is what turned her into that cat clicker"
+          },
+          {
+            "start_time": "1225.207",
+            "end_time": "1228.657",
+            "text": "training in the sort of behavioral techniques for training cats"
+          },
+          {
+            "start_time": "1228.658",
+            "end_time": "1233.367",
+            "text": ". They really can make a difference in shelters to make cats better"
+          },
+          {
+            "start_time": "1233.368",
+            "end_time": "1235.178",
+            "text": "candidates for adoption right"
+          }
+        ],
+        [
+          {
+            "start_time": "1240.088",
+            "end_time": "1244.878",
+            "text": "especially if it's a shelter that has dogs and a lot of activity you know these"
+          },
+          {
+            "start_time": "1244.878",
+            "end_time": "1249.318",
+            "text": "cats maybe have been trapped because they're out you know outside. They're"
+          },
+          {
+            "start_time": "1249.318",
+            "end_time": "1253.898",
+            "text": "terrified they're cowering in the back of their care back in the cage. And"
+          }
+        ],
+        [
+          {
+            "start_time": "1259.007",
+            "end_time": "1263.397",
+            "text": "because you know a person coming to adopt they want to cap that. Like cuddly and"
+          },
+          {
+            "start_time": "1263.398",
+            "end_time": "1268.178",
+            "text": "sociable and comes up so that those cats are going to get overlooked. But if you"
+          },
+          {
+            "start_time": "1268.178",
+            "end_time": "1272.998",
+            "text": "spend just like five or ten minutes a day with that kitten within within"
+          }
+        ],
+        [
+          {
+            "start_time": "1343.438",
+            "end_time": "1348.427",
+            "text": ". Yes Not Star Search is not Star Search It's about making a difference and trying to save a few lives most"
+          },
+          {
+            "start_time": "1348.428",
+            "end_time": "1353.377",
+            "text": "of the cats that you foster go to other adoptive homes eventually or fostering them until they're"
+          },
+          {
+            "start_time": "1353.378",
+            "end_time": "1355.747",
+            "text": "ready to be adopted by other people."
+          }
+        ],
+        [
+          {
+            "start_time": "1400.148",
+            "end_time": "1405.098",
+            "text": "first letter to for five first my first official letter fostering have"
+          },
+          {
+            "start_time": "1405.128",
+            "end_time": "1410.057",
+            "text": "all had respiratory problems. They got my cats sick so I"
+          },
+          {
+            "start_time": "1410.057",
+            "end_time": "1414.947",
+            "text": "had thirty cows medicating thirty cats at one point and so I have"
+          },
+          {
+            "start_time": "1414.947",
+            "end_time": "1419.698",
+            "text": "medicated them I got them all healthy. You had a real Clairton shallow it's"
+          }
+        ],
+        [
+          {
+            "start_time": "1420.088",
+            "end_time": "1425.038",
+            "text": "this. But I ended up finding homes for all eleven and then I went"
+          },
+          {
+            "start_time": "1425.037",
+            "end_time": "1429.948",
+            "text": "back and you know you don't even know people's people don't even know how many kittens and cats are"
+          },
+          {
+            "start_time": "1429.947",
+            "end_time": "1434.897",
+            "text": "dying every day just because they don't have a place to go and when I and I found that out I"
+          }
+        ],
+        [
+          {
+            "start_time": "1434.898",
+            "end_time": "1439.698",
+            "text": "realized you know I can make it now I can't make a huge difference I'm not you know I"
+          },
+          {
+            "start_time": "1439.697",
+            "end_time": "1444.598",
+            "text": "can do thousands of cats but I have enough space and time in my life that I can do a few here and there."
+          },
+          {
+            "start_time": "1444.598",
+            "end_time": "1449.547",
+            "text": "So when I found homes for those eleven I went back and got more and learned something called you know"
+          }
+        ],
+        [
+          {
+            "start_time": "1454.108",
+            "end_time": "1459.088",
+            "text": "quarantine where we have a double quarantine period before that actually you know allowed to mingle with my"
+          },
+          {
+            "start_time": "1459.088",
+            "end_time": "1463.848",
+            "text": "cats and all deemed healthy and then I also train each foster kitten to do"
+          },
+          {
+            "start_time": "1463.848",
+            "end_time": "1468.347",
+            "text": "something you know there are whistle train to the carrier so that they're all used to going into a"
+          }
+        ],
+        [
+          {
+            "start_time": "1498.297",
+            "end_time": "1503.137",
+            "text": "hundred sixty two since I started officially fostering but before that I was always"
+          },
+          {
+            "start_time": "1503.138",
+            "end_time": "1508.048",
+            "text": "taking in cats because they were as before. Two thousand and nine I"
+          },
+          {
+            "start_time": "1508.358",
+            "end_time": "1513.157",
+            "text": "you know with the cats I had currently were for Foster you know orphans rescue"
+          },
+          {
+            "start_time": "1513.158",
+            "end_time": "1518.107",
+            "text": "strays cats that came into my life and I had a friend that trapped barn kittens and would"
+          },
+          {
+            "start_time": "1518.108",
+            "end_time": "1522.728",
+            "text": "bring them to me and I had extra space so you know I'd get them cleaned up and vaccinated and"
+          }
+        ],
+        [
+          {
+            "start_time": "1527.588",
+            "end_time": "1532.528",
+            "text": "years but since two thousand and nine is one hundred sixty two that's why I started keeping track."
+          },
+          {
+            "start_time": "1532.737",
+            "end_time": "1537.478",
+            "text": "I'm curious about whether you do anything special to make sure that all your cats get along"
+          },
+          {
+            "start_time": "1537.477",
+            "end_time": "1538.557",
+            "text": "."
+          }
+        ],
+        [
+          {
+            "start_time": "1627.858",
+            "end_time": "1630.097",
+            "text": "training because it's giving them something to do."
+          },
+          {
+            "start_time": "1630.098",
+            "end_time": "1635.008",
+            "text": "And fourteen cats on the road you know is that healthy for them."
+          },
+          {
+            "start_time": "1635.007",
+            "end_time": "1638.077",
+            "text": "One of the issues we're going to move them around."
+          }
+        ],
+        [
+          {
+            "start_time": "1707.148",
+            "end_time": "1711.608",
+            "text": "coming and coming down here and it's a great show croquettes. Check it out"
+          },
+          {
+            "start_time": "1711.608",
+            "end_time": "1715.607",
+            "text": "online on Circus cats dot com and check us out"
+          },
+          {
+            "start_time": "1716.068",
+            "end_time": "1720.938",
+            "text": "on stitcher on i Tunes on Sound Cloud read"
+          }
+        ],
+        [
+          {
+            "start_time": "1716.068",
+            "end_time": "1720.938",
+            "text": "on stitcher on i Tunes on Sound Cloud read"
+          },
+          {
+            "start_time": "1720.938",
+            "end_time": "1725.938",
+            "text": "us review us ask us questions. Visit the acro cats"
+          },
+          {
+            "start_time": "1725.967",
+            "end_time": "1730.638",
+            "text": "and take care of your cats. Think about adopting and for"
+          },
+          {
+            "start_time": "1730.767",
+            "end_time": "1732.467",
+            "text": "Hillary HANSEN This is book Wolf."
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3044,
+      "title": "Mediatwits #81  Yahoo Snags Tumblr; DOJ Investigates Fox; Ben Huh Talks Cats",
+      "description": "With Yahoo’s $1.1 billion purchase of blogging platform Tumblr, this week’s podcast will focus on the future of the two companies and how, or if, they’ll survive the transition. Will Yahoo become the youthful information hub it struggles to be, and will Tumblr finally become profitable without alienating its users? Then, in the wake of the Justice Department’s acquisition of AP phone records, newly revealed court documents show that the DOJ investigated Fox News Chief Washington Correspondent James Rosen as a “co-conspirator” in a case against a State Department adviser accused of leaking classified information. We’ll follow up on our conversation from last week on the balance between the First Amendment and the need to ensure national security. Finally, we’ll chat with our special guest, Ben Huh of Cheezburger, on why cats dominate the Internet. The roundtable will be hosted by MediaShift’s Mark Glaser, with regulars Ana Marie Cox from The Guardian, Mónica Guzmán from the Seattle Times and GeekWire, and Andrew Lih from USC.",
+      "date_created": "2014-10-20",
+      "date_added": "2015-02-25T16:22:32.729Z",
+      "identifier": "https://api.soundcloud.com/tracks/93732163",
+      "show_id": 165,
+      "show_title": "MediaShift",
+      "digital_location": "http://soundcloud.com/mediashift/mediatwits-81-yahoo-snags",
+      "physical_location": "soundcloud",
+      "duration": 1856,
+      "updated_at": "2016-02-12T03:16:21.718Z",
+      "network": "Mark Glaser",
+      "categories": [
+        {
+          "id": 5,
+          "parent_id": null,
+          "name": "Society & Culture",
+          "name_lc": "society & culture"
+        }
+      ],
+      "audio_files": [
+        {
+          "id": 3043,
+          "mp3": "https://www.audiosear.ch/media/283eba74066c3a4e9bcddde531bacfac/0/public/audio_file/3043/stream.mp3",
+          "ogg": "https://www.audiosear.ch/media/45953dcb1211106559df549d963378eb/0/public/audio_file/3043/stream.ogg",
+          "duration": "00:30:56",
+          "url_title": "mediatwits-81-yahoo-snags-tumblr-doj-investigates-fox-ben-huh-talks-cats",
+          "listenlen": "long"
+        }
+      ],
+      "entities": [
+        {
+          "entity": "internet",
+          "category": "entity",
+          "score": 1,
+          "type": "Industry Term"
+        },
+        {
+          "entity": "journalist",
+          "category": "entity",
+          "score": 0.9416,
+          "type": "Position"
+        },
+        {
+          "entity": "Media",
+          "category": "topic",
+          "score": 0.75,
+          "type": null
+        },
+        {
+          "entity": "technology",
+          "category": "entity",
+          "score": 0.6099,
+          "type": "Industry Term"
+        },
+        {
+          "entity": "White House",
+          "category": "entity",
+          "score": 0.5253,
+          "type": "Organization"
+        },
+        {
+          "entity": "tumblr",
+          "category": "entity",
+          "score": 0.4318,
+          "type": null
+        },
+        {
+          "entity": "correspondent",
+          "category": "entity",
+          "score": 0.4163,
+          "type": "Position"
+        },
+        {
+          "entity": "United States",
+          "category": "location",
+          "score": 0.2626,
+          "type": "Country"
+        },
+        {
+          "entity": "Asia",
+          "category": "location",
+          "score": 0.2626,
+          "type": "Continent"
+        },
+        {
+          "entity": "Seattle",
+          "category": "location",
+          "score": 0.2626,
+          "type": "City"
+        },
+        {
+          "entity": "Ali Baba",
+          "category": "entity",
+          "score": 0.0714,
+          "type": "Company"
+        },
+        {
+          "entity": "artist",
+          "category": "entity",
+          "score": 0.0714,
+          "type": "Position"
+        },
+        {
+          "entity": "Central Intelligence Agency",
+          "category": "entity",
+          "score": 0.0714,
+          "type": "Organization"
+        },
+        {
+          "entity": "Terry Semel",
+          "category": "entity",
+          "score": 0.0714,
+          "type": "Person"
+        },
+        {
+          "entity": "United Nations",
+          "category": "entity",
+          "score": 0.0714,
+          "type": "Organization"
+        },
+        {
+          "entity": "media circus",
+          "category": "entity",
+          "score": 0.0714,
+          "type": "Industry Term"
+        },
+        {
+          "entity": "Marissa Meyer",
+          "category": "entity",
+          "score": 0.0714,
+          "type": "Person"
+        },
+        {
+          "entity": "David Carr",
+          "category": "entity",
+          "score": 0.0714,
+          "type": "Person"
+        },
+        {
+          "entity": "Ted Stevens",
+          "category": "entity",
+          "score": 0.0714,
+          "type": "Person"
+        },
+        {
+          "entity": "Ethan Zuckerman",
+          "category": "entity",
+          "score": 0.0714,
+          "type": "Person"
+        },
+        {
+          "entity": "Arts and Entertainment",
+          "category": "topic",
+          "score": 0.0651,
+          "type": null
+        },
+        {
+          "entity": "James Rosen",
+          "category": "entity",
+          "score": 0.0549,
+          "type": "Person"
+        },
+        {
+          "entity": "Entertainment and Culture",
+          "category": "topic",
+          "score": 0.0393,
+          "type": null
+        },
+        {
+          "entity": "Human Interest",
+          "category": "topic",
+          "score": 0.0386,
+          "type": null
+        },
+        {
+          "entity": "software",
+          "category": "tag",
+          "score": 0.0357,
+          "type": null
+        },
+        {
+          "entity": "alternative rock",
+          "category": "tag",
+          "score": 0.0357,
+          "type": null
+        },
+        {
+          "entity": "yahoo!",
+          "category": "tag",
+          "score": 0.0357,
+          "type": null
+        },
+        {
+          "entity": "world wide web",
+          "category": "tag",
+          "score": 0.0357,
+          "type": null
+        }
+      ],
+      "locations": [
+        {
+          "id": 122245,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305",
+          "name": "United States",
+          "score": 0.2626,
+          "category": "location",
+          "entity_type": "Country",
+          "item_id": 3044,
+          "extra": "--- !ruby/hash:Hashie::Mash\nlatitude: '40.4230003233'\nlongitude: '-98.7372244786'\n",
+          "created_at": "2015-02-25T16:22:35.722Z",
+          "updated_at": "2015-02-26T03:57:15.998Z"
+        },
+        {
+          "id": 122268,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/ad004887-c581-3051-9f70-22f68e4b89e4",
+          "name": "Seattle",
+          "score": 0.2626,
+          "category": "location",
+          "entity_type": "City",
+          "item_id": 3044,
+          "extra": "--- !ruby/hash:Hashie::Mash\nlatitude: '47.6064'\nlongitude: '-122.3308'\ncountry: United States\nstate: Washington\n",
+          "created_at": "2015-02-25T16:22:43.439Z",
+          "updated_at": "2015-02-26T03:57:14.849Z"
+        },
+        {
+          "id": 122247,
+          "is_confirmed": false,
+          "identifier": "http://d.opencalais.com/genericHasher-1/a5359054-758f-3c20-ac97-d90fbc6a170e",
+          "name": "Asia",
+          "score": 0.2626,
+          "category": "location",
+          "entity_type": "Continent",
+          "item_id": 3044,
+          "extra": "--- \n...\n",
+          "created_at": "2015-02-25T16:22:36.385Z",
+          "updated_at": "2015-02-26T03:57:15.963Z"
+        }
+      ],
+      "topics": [
+        {
+          "id": 122238,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Arts and Entertainment",
+          "score": 0.0651,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 3044,
+          "extra": "--- !ruby/hash:Hashie::Mash\noriginal: Arts & Entertainment\n",
+          "created_at": "2015-02-25T16:22:33.398Z",
+          "updated_at": "2015-02-26T03:57:16.099Z"
+        },
+        {
+          "id": 122237,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Media",
+          "score": 0.75,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 3044,
+          "extra": "--- !ruby/hash:Hashie::Mash\noriginal: Media\n",
+          "created_at": "2015-02-25T16:22:33.061Z",
+          "updated_at": "2015-02-26T03:57:16.133Z"
+        },
+        {
+          "id": 122264,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Entertainment and Culture",
+          "score": 0.0393,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 3044,
+          "extra": "--- !ruby/hash:Hashie::Mash\noriginal: Entertainment_Culture\n",
+          "created_at": "2015-02-25T16:22:42.117Z",
+          "updated_at": "2015-02-26T03:57:15.066Z"
+        },
+        {
+          "id": 122263,
+          "is_confirmed": false,
+          "identifier": null,
+          "name": "Human Interest",
+          "score": 0.0386,
+          "category": "topic",
+          "entity_type": null,
+          "item_id": 3044,
+          "extra": "--- !ruby/hash:Hashie::Mash\noriginal: Human Interest\n",
+          "created_at": "2015-02-25T16:22:41.787Z",
+          "updated_at": "2015-02-26T03:57:15.116Z"
+        }
+      ],
+      "image_urls": {
+        "full": "https://i1.sndcdn.com/avatars-000029050712-8555xw-t500x500.jpg",
+        "thumb": "https://i1.sndcdn.com/avatars-000029050712-8555xw-large.jpg"
+      },
+      "contributors": [
+        {
+          "role": "mentioned",
+          "slug": "davidcarr",
+          "name": "David Carr",
+          "person_id": 478,
+          "urls": {
+            "self": "https://www.audiosear.ch/api/people/478",
+            "ui": "https://www.audiosear.ch/people/d#davidcarr"
+          }
+        },
+        {
+          "role": "mentioned",
+          "slug": "terrysemel",
+          "name": "Terry Semel",
+          "person_id": 630,
+          "urls": {
+            "self": "https://www.audiosear.ch/api/people/630",
+            "ui": "https://www.audiosear.ch/people/t#terrysemel"
+          }
+        },
+        {
+          "role": "mentioned",
+          "slug": "jamesrosen",
+          "name": "James Rosen",
+          "person_id": 5500,
+          "urls": {
+            "self": "https://www.audiosear.ch/api/people/5500",
+            "ui": "https://www.audiosear.ch/people/j#jamesrosen"
+          }
+        },
+        {
+          "role": "mentioned",
+          "slug": "tedstevens",
+          "name": "Ted Stevens",
+          "person_id": 5596,
+          "urls": {
+            "self": "https://www.audiosear.ch/api/people/5596",
+            "ui": "https://www.audiosear.ch/people/t#tedstevens"
+          }
+        },
+        {
+          "role": "mentioned",
+          "slug": "marissameyer",
+          "name": "Marissa Meyer",
+          "person_id": 1156,
+          "urls": {
+            "self": "https://www.audiosear.ch/api/people/1156",
+            "ui": "https://www.audiosear.ch/people/m#marissameyer"
+          }
+        },
+        {
+          "role": "mentioned",
+          "slug": "ethanzuckerman",
+          "name": "Ethan Zuckerman",
+          "person_id": 3948,
+          "urls": {
+            "self": "https://www.audiosear.ch/api/people/3948",
+            "ui": "https://www.audiosear.ch/people/e#ethanzuckerman"
+          }
+        }
+      ],
+      "urls": {
+        "self": "https://www.audiosear.ch/api/episodes/3044",
+        "ui": "https://www.audiosear.ch/a/be4/mediatwits-81-yahoo-snags-tumblr-doj-investigates-fox-ben-huh-talks-cats"
+      },
+      "highlights": [
+        {
+          "url": "https://api.soundcloud.com/tracks/93732163/stream?client_id=df968aa6d731e453a4a867495d1cdb4c",
+          "id": 3043,
+          "transcript": [
+            {
+              "text": "because we see so many <em>cats</em> and we just don't see enough dogs",
+              "start_time": "1190.45",
+              "end_time": "1194.71"
+            },
+            {
+              "text": "Now. And can you can you shed some light on this problem with this is why the <em>cats</em> are",
+              "start_time": "1201.71",
+              "end_time": "1206.64"
+            },
+            {
+              "text": "been breeding <em>cats</em> for about ten thousand years to make them cleaner and make them more",
+              "start_time": "1231.03",
+              "end_time": "1235.39"
+            },
+            {
+              "text": "parasite. That actually make certain people want it to be servants of the <em>cats</em>.",
+              "start_time": "1260.33",
+              "end_time": "1265.33"
+            },
+            {
+              "text": "self-esteem and wives. And <em>cats</em>",
+              "start_time": "1383.46",
+              "end_time": "1388.36"
+            }
+          ]
+        }
+      ],
+      "excerpts": [
+        [
+          {
+            "start_time": "1185.12",
+            "end_time": "1189.5",
+            "text": "On the Internet and something that's been concerning all of us for a really long time"
+          },
+          {
+            "start_time": "1190.45",
+            "end_time": "1194.71",
+            "text": "because we see so many cats and we just don't see enough dogs"
+          },
+          {
+            "start_time": "1195.46",
+            "end_time": "1199.39",
+            "text": "and ferrets really current affairs on the Internet. It's a big problem."
+          }
+        ],
+        [
+          {
+            "start_time": "1195.46",
+            "end_time": "1199.39",
+            "text": "and ferrets really current affairs on the Internet. It's a big problem."
+          },
+          {
+            "start_time": "1201.71",
+            "end_time": "1206.64",
+            "text": "Now. And can you can you shed some light on this problem with this is why the cats are"
+          },
+          {
+            "start_time": "1206.66",
+            "end_time": "1209.74",
+            "text": "are over lore over lords and what we can do."
+          }
+        ],
+        [
+          {
+            "start_time": "1226.09",
+            "end_time": "1231.03",
+            "text": "The types of societies that are currently using it. And what else start. First we have"
+          },
+          {
+            "start_time": "1231.03",
+            "end_time": "1235.39",
+            "text": "been breeding cats for about ten thousand years to make them cleaner and make them more"
+          },
+          {
+            "start_time": "1235.74",
+            "end_time": "1240.72",
+            "text": "appealing to us. And so it's no surprise that we like them. Right. So I called them"
+          }
+        ],
+        [
+          {
+            "start_time": "1255.63",
+            "end_time": "1260.33",
+            "text": "This is by a larger scale. Most scientists are right now is that they're biological. It's like a"
+          },
+          {
+            "start_time": "1260.33",
+            "end_time": "1265.33",
+            "text": "parasite. That actually make certain people want it to be servants of the cats."
+          },
+          {
+            "start_time": "1266.02",
+            "end_time": "1270.2",
+            "text": "And you can actually look it up. I'm not making this second demographic shift."
+          }
+        ],
+        [
+          {
+            "start_time": "1378.59",
+            "end_time": "1383.46",
+            "text": "solitary animals. They're also people nerds are have low"
+          },
+          {
+            "start_time": "1383.46",
+            "end_time": "1388.36",
+            "text": "self-esteem and wives. And cats"
+          },
+          {
+            "start_time": "1388.39",
+            "end_time": "1393.23",
+            "text": "you know will accept barriers that you can sort of fit in with our already existing world view that"
+          }
+        ],
+        [
+          {
+            "start_time": "1491.85",
+            "end_time": "1495.63",
+            "text": "cyber attack on a ship."
+          },
+          {
+            "start_time": "1497.48",
+            "end_time": "1502.48",
+            "text": "But yeah I think cats have cemented their dominance as the animal does Europe Internet and"
+          },
+          {
+            "start_time": "1502.48",
+            "end_time": "1506.68",
+            "text": "because there's so many of them around you but we have a well here's a thing."
+          }
+        ],
+        [
+          {
+            "start_time": "1512.81",
+            "end_time": "1517.74",
+            "text": "to animals. And we do a particularly good job of species of doing that with dogs"
+          },
+          {
+            "start_time": "1517.74",
+            "end_time": "1522.33",
+            "text": "and cats. And any time you see an animal photo or even the objects that actually look like you're"
+          },
+          {
+            "start_time": "1522.44",
+            "end_time": "1526.84",
+            "text": "doing an actual act. Activity human being described our"
+          }
+        ],
+        [
+          {
+            "start_time": "1551.06",
+            "end_time": "1555.95",
+            "text": "work backwards from that with our collective consciousness. So animals that allow us to"
+          },
+          {
+            "start_time": "1555.95",
+            "end_time": "1560.86",
+            "text": "actually have that collective consciousness like dogs and cats tend to be more a part of the Web because any"
+          },
+          {
+            "start_time": "1560.86",
+            "end_time": "1565.41",
+            "text": "time you see a cat you could put your cat or your experience of cats. As a substitute culture."
+          },
+          {
+            "start_time": "1565.94",
+            "end_time": "1567.78",
+            "text": "So that becomes really helpful. It's."
+          }
+        ],
+        [
+          {
+            "start_time": "1568.33",
+            "end_time": "1572.85",
+            "text": "Interesting. Ben so I but I think you have put your finger on what we can now call them the"
+          },
+          {
+            "start_time": "1572.85",
+            "end_time": "1577.47",
+            "text": "universal theory of cats. Because one of the things that when I was in Asia. People kept"
+          },
+          {
+            "start_time": "1577.47",
+            "end_time": "1582.24",
+            "text": "asking was wise. Hello Kitty is so popular. And I'll tell you nobody has no"
+          }
+        ],
+        [
+          {
+            "start_time": "1612.0",
+            "end_time": "1616.88",
+            "text": "cute cat theory of the Internet where we come up with all these technologies to share cat"
+          },
+          {
+            "start_time": "1616.88",
+            "end_time": "1621.74",
+            "text": "pictures to tweet about cats to blog about cats and to show movies of cats and we have all these"
+          },
+          {
+            "start_time": "1621.74",
+            "end_time": "1626.62",
+            "text": "different ways of doing it because we are now so well versed in using these. Information"
+          }
+        ],
+        [
+          {
+            "start_time": "1700.35",
+            "end_time": "1705.21",
+            "text": "Well you know I don't know. It's a part of a broader point to finishing."
+          },
+          {
+            "start_time": "1705.21",
+            "end_time": "1710.11",
+            "text": "The thought as I think there's something about cats when compared to dogs. For example I think cats and"
+          },
+          {
+            "start_time": "1710.11",
+            "end_time": "1715.11",
+            "text": "show demonstrate very complicated emotions somehow. Because their curiosity"
+          }
+        ],
+        [
+          {
+            "start_time": "1730.07",
+            "end_time": "1730.57",
+            "text": "creature."
+          },
+          {
+            "start_time": "1730.94",
+            "end_time": "1735.6",
+            "text": "But you know it. And also. That's right. There's a push and pull pushes cats"
+          },
+          {
+            "start_time": "1735.6",
+            "end_time": "1740.38",
+            "text": "actually are able to demonstrate a wider range in case there's a cold"
+          }
+        ],
+        [
+          {
+            "start_time": "1757.24",
+            "end_time": "1762.03",
+            "text": "and cat owner. And you like dogs are certain reasons. But They're simpler. The more straightforward. The more"
+          },
+          {
+            "start_time": "1762.03",
+            "end_time": "1766.89",
+            "text": "direct in terms of how you relate to them. Cats have this ministry and in the end ignited nature to"
+          },
+          {
+            "start_time": "1766.89",
+            "end_time": "1771.69",
+            "text": "them. So you as you said you start projects complexity and complex thoughts onto them."
+          }
+        ],
+        [
+          {
+            "start_time": "1771.69",
+            "end_time": "1776.19",
+            "text": "Probably when you. Are they probably don't deserve it. But you enjoy doing that even if it's not."
+          },
+          {
+            "start_time": "1776.23",
+            "end_time": "1781.07",
+            "text": "True. The N.R.A. has not looked at a mall or a young bowler of cats."
+          },
+          {
+            "start_time": "1782.16",
+            "end_time": "1783.48",
+            "text": "We have now come full circle."
+          }
+        ]
+      ]
+    }
+  ]
+}
