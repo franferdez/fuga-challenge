@@ -1,24 +1,23 @@
 /* @flow */
 import React, { PropTypes } from 'react'
 import { connect } from 'react-redux'
-import { increment, doubleAsync } from '../../redux/modules/counter'
+import { doSearch } from '../../redux/modules/Search'
 import Styles from './SearchView.scss'
 
 type Props = {
-
+  results: Array
 };
 
-//"title": "Cats: Glowing eyes, puffy tails and secret purrs",
-//    "description": "Why do cat eyes look the way they do? Can cats really see in the dark? And what are they trying to tell us with that purr (you know the one)? \n\nWe've got the answers -- cat behavior expert Mikel Delgado helps us decode cat quirks and producer Sanden Totten teaches us what's behind cats' glowing eyes. Plus: We learn about other cool powers that animal eyes have, that ours don't.",
-//    "date_created": "2015-07-27",
-//    "date_added": "2015-07-28T09:04:43.223Z",
-//    "identifier": "https://api.soundcloud.com/tracks/216582092",
-//    "show_id": 123,
-//    "show_title": "Brains On!",
 export class Search extends React.Component {
   props: Props;
 
+  componentDidMount(){
+    setTimeout(()=>{this.props.doSearch("query")},1000);
+  }
+
   render () {
+    const {results, page} = this.props;
+    console.log('results', page, results);
     return (
       <div className='SearchView'>
         <div>
@@ -48,13 +47,9 @@ export class Search extends React.Component {
   }
 }
 
-export default Search
-
-
-//const mapStateToProps = (state) => ({
-//  counter: state.counter
-//})
-//export default connect((mapStateToProps), {
-//      increment: () => increment(1),
-//    doubleAsync
-//})(HomeView)
+const mapStateToProps = (state) => ({
+    ...state.Search
+})
+export default connect((mapStateToProps), {
+  doSearch: doSearch
+})(Search)

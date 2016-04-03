@@ -5,6 +5,7 @@ import { useRouterHistory } from 'react-router'
 import { syncHistoryWithStore } from 'react-router-redux'
 import makeRoutes from './routes'
 import Root from './containers/Root'
+import "babel-polyfill";
 import configureStore from './redux/configureStore'
 
 // Configure history for react-router

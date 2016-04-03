@@ -1,4 +1,5 @@
 /* @flow */
+
 import jsonSearch from 'static/audiosearch_example_response_body.json'
 
 // ------------------------------------
@@ -56,18 +57,18 @@ export const initialState = {
 export default function (state = initialState, action) {
   switch (action.type) {
     case SEND_SEARCH:
-      return Object.assign(state,{
+      return Object.assign({},state,{
         searching: action.payload.searching
       });
     case RECEIVE_SEARCH:
       const response = action.payload.response;
-      return Object.assign(state,{
+      return Object.assign({},state,{
         searching: action.payload.searching,
         query: response.query,
         totalResults: response.total_results,
         page: response.page,
         resultsPerPage: response.results_per_page,
-        results: response.results
+        results: [].concat(response.results) // force new instance
       });
     default:
       return state
