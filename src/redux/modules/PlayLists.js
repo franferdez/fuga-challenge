@@ -56,31 +56,41 @@ export const initialState = {
 }
 export default function (state = initialState, action) {
   switch (action.type) {
-    case CREATE_PLAYLIST:
+    case CREATE_PLAYLIST: {
+      const playList = state.playLists;
+      const playListLen = playList.length;
+      const newId = (playListLen > 0) ? playList[playListLen - 1].id + 1 : 1;
       const newPlaylist = {
-        id: state.playLists.length + 1,
+        id: newId,
         title: action.payload.title,
         podcasts: []
       }
       state.playLists.push(newPlaylist);
-      return Object.assign({},state,{
+      return Object.assign({}, state, {
         playLists: [].concat(state.playLists)
       });
+    }break;
 
-    case REMOVE_PLAYLIST:
-      const playLists = _.pullAllBy(state.playLists, action.payload.id, 'id'); // remove playlist
-      return Object.assign({},state,{
-        playLists: [].concat(playLists)
+    case REMOVE_PLAYLIST: {
+      _.remove(state.playLists, (elem)=> {
+        return elem.id === action.payload.id
+      }); // remove playlist
+      return Object.assign({}, state, {
+        playLists: [].concat(state.playLists)
       });
+    }break;
 
-    case ADD_PODCAST_TO_PLAYLIST:
-      const playList = _.find(state.playLists,(elem)=>{elem.id === action.payload.id});
-      playlist.podcasts.push(action.payload.idPodcast);
-
+    case ADD_PODCAST_TO_PLAYLIST: {
+      let playList = _.find(state.playLists, (elem)=> {
+        return elem.id === action.payload.id
+      });
+      playList.podcasts.push(action.payload.idPodcast);
       return state;
+    }break;
 
-    case REMOVE_PODCAST_TO_PLAYLIST:
+    case REMOVE_PODCAST_TO_PLAYLIST:{
       return state;
+    }break;
 
     default:
       return state

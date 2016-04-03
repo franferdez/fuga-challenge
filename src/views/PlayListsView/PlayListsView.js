@@ -6,24 +6,25 @@ import ResultList from 'components/ResultList/ResultList'
 import FormPlaylist from 'components/FormPlaylist/FormPlaylist'
 import ItemPlaylist from 'components/ItemPlaylist/ItemPlaylist'
 
-type Props = {
-    playLists: Array
+type
+Props = {
+  playLists: Array
 };
 
 export class PlayLists extends React.Component {
-  props: Props;
+  props:Props;
 
-  render () {
+  render() {
     const {playLists,createPlayList, deletePlayList} = this.props;
 
     return (
-        <div className='SearchView'>
-          <h1>Playlists</h1>
-          <FormPlaylist createPlayList={createPlayList} />
-          <ResultList results={playLists}>
-            <ItemPlaylist deletePlayList={deletePlayList} />
-          </ResultList>
-        </div>
+      <div className='SearchView'>
+        <h1>Playlists</h1>
+        <FormPlaylist createPlayList={createPlayList}/>
+        <ResultList results={playLists}>
+          <ItemPlaylist deletePlayList={deletePlayList}/>
+        </ResultList>
+      </div>
     )
   }
 }
