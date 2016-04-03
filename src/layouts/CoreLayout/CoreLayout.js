@@ -13,6 +13,7 @@ import '../../styles/core.scss'
 function CoreLayout ({ children }) {
   return (
     <div className='page-container'>
+      <nav className="global-menu"></nav>
       <div className='view-container'>
         {children}
       </div>
