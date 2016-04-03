@@ -6,14 +6,14 @@ import ResultList from 'components/ResultList/ResultList'
 import FormPlaylist from 'components/FormPlaylist/FormPlaylist'
 
 type Props = {
-  results: Array
+    playLists: Array
 };
 
 export class PlayLists extends React.Component {
   props: Props;
 
   render () {
-    const {playLists} = this.props;
+    const {playLists,createPlayList} = this.props;
 
     return (
         <div className='SearchView'>
