@@ -3,6 +3,7 @@ import React, { PropTypes } from 'react'
 import { connect } from 'react-redux'
 import { createPlayList, deletePlayList } from '../../redux/modules/PlayLists'
 import ResultList from 'components/ResultList/ResultList'
+import FormPlaylist from 'components/FormPlaylist/FormPlaylist'
 
 type Props = {
   results: Array
@@ -17,6 +18,7 @@ export class PlayLists extends React.Component {
     return (
         <div className='SearchView'>
           <h1>Playlists</h1>
+          <FormPlaylist createPlayList={createPlayList} />
           <ResultList results={playLists}>
             <h2>Playlist</h2>
           </ResultList>
