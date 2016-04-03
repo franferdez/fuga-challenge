@@ -1,5 +1,6 @@
 import React, { PropTypes } from 'react'
 import '../../styles/core.scss'
+import 'components/GlobalMenu/GlobalMenu'
 
 // Note: Stateless/function components *will not* hot reload!
 // react-transform *only* works on component classes.
@@ -13,7 +14,7 @@ import '../../styles/core.scss'
 function CoreLayout ({ children }) {
   return (
     <div className='page-container'>
-      <nav className="global-menu"></nav>
+      <GlobalMenu />
       <div className='view-container'>
         {children}
       </div>
