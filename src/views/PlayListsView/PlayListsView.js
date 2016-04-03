@@ -4,6 +4,7 @@ import { connect } from 'react-redux'
 import { createPlayList, deletePlayList } from '../../redux/modules/PlayLists'
 import ResultList from 'components/ResultList/ResultList'
 import FormPlaylist from 'components/FormPlaylist/FormPlaylist'
+import ItemPlaylist from 'components/ItemPlaylist/ItemPlaylist'
 
 type Props = {
     playLists: Array
@@ -20,7 +21,7 @@ export class PlayLists extends React.Component {
           <h1>Playlists</h1>
           <FormPlaylist createPlayList={createPlayList} />
           <ResultList results={playLists}>
-            <h2>Playlist</h2>
+            <ItemPlaylist />
           </ResultList>
         </div>
     )
