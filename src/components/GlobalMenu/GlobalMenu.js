@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link} from 'react-router'
 
 type Props = {
 
@@ -9,8 +10,8 @@ export class GlobalMenu extends React.Component {
   render () {
     return (
         <nav className="global-menu">
-          <a>Search</a>
-          <a>Playlist</a>
+          <Link to="/">Search</Link>
+          <Link to="/playlist">Playlist</Link>
         </nav>
     )
   }

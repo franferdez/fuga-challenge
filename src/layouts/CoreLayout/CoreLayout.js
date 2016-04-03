@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react'
 import '../../styles/core.scss'
-import 'components/GlobalMenu/GlobalMenu'
+import GlobalMenu from 'components/GlobalMenu/GlobalMenu'
 
 // Note: Stateless/function components *will not* hot reload!
 // react-transform *only* works on component classes.
