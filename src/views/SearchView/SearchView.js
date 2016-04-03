@@ -3,6 +3,7 @@ import React, { PropTypes } from 'react'
 import { connect } from 'react-redux'
 import { doSearch } from '../../redux/modules/Search'
 import Styles from './SearchView.scss'
+import SearchInput from 'components/SearchInput/SearchInput'
 
 type Props = {
   results: Array
@@ -11,20 +12,14 @@ type Props = {
 export class Search extends React.Component {
   props: Props;
 
-  componentDidMount(){
-    setTimeout(()=>{this.props.doSearch("query")},1000);
-  }
-
   render () {
-    const {results, page} = this.props;
+    const {results, page, doSearch} = this.props;
     console.log('results', page, results);
     return (
       <div className='SearchView'>
         <div>
           <h1>Audio Search</h1>
-          <div className="SearchInput">
-            <input/>
-          </div>
+          <SearchInput doSearch={doSearch} />
           <div className="ResultList">
             <ul>
               <li>
