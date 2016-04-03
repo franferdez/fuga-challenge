@@ -1,7 +1,6 @@
 /* @flow */
 import React from 'react';
 
-
 type Props = {
   doSearch: Function.isRequired
 }
@@ -26,10 +25,10 @@ export class SearchInput extends React.Component {
 
   render() {
     return (
-        <div className="SearchInput">
-          <input value={this.state.searchField} onChange={this.handleChange} ref="searchInput" placeholder="Search phrases, shows, topics, networks, or people" />
-          <button onClick={this.handleSearch}>Search</button>
-        </div>
+      <div className="SearchInput">
+        <input value={this.state.searchField} onChange={this.handleChange} ref="searchInput" placeholder="Search phrases, shows, topics, networks, or people" />
+        <button onClick={this.handleSearch}>Search</button>
+      </div>
     )
   }
 }
