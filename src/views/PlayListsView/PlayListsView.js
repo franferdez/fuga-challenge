@@ -14,14 +14,14 @@ export class PlayLists extends React.Component {
   props: Props;
 
   render () {
-    const {playLists,createPlayList} = this.props;
+    const {playLists,createPlayList, deletePlayList} = this.props;
 
     return (
         <div className='SearchView'>
           <h1>Playlists</h1>
           <FormPlaylist createPlayList={createPlayList} />
           <ResultList results={playLists}>
-            <ItemPlaylist />
+            <ItemPlaylist deletePlayList={deletePlayList} />
           </ResultList>
         </div>
     )
