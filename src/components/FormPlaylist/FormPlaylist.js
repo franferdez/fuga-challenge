@@ -2,9 +2,9 @@
 import React from 'react';
 
 type Props = {
-  createPlaylist: Function.isRequired
+  createPlayList: Function.isRequired
 }
-export class FormPlaylist extends React.Component {
+export class FormPlayList extends React.Component {
   props: Props;
 
   constructor(props){
@@ -20,7 +20,7 @@ export class FormPlaylist extends React.Component {
 
   handleCreate(){
     const title = this.refs.titleInput.value;
-    this.props.createPlaylist(title)
+    this.props.createPlayList(title)
   }
 
   render() {
@@ -33,4 +33,4 @@ export class FormPlaylist extends React.Component {
   }
 }
 
-export default FormPlaylist
+export default FormPlayList
