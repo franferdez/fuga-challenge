@@ -2,23 +2,23 @@
 import React from 'react'
 
 type Props = {
-  results: Array.isRequired
+  list: Array.isRequired
 };
-export class ResultList extends React.Component {
+export class BasicList extends React.Component {
   props: Props;
 
   render () {
-    const results = this.props.results;
+    const list = this.props.list;
     let i = 0;
     return (
       <div className="ResultList">
         <ul>
-          {results.map(result => {
+          {list.map(item => {
             i++;
             const newChildren = React.Children.map(this.props.children, function(child) {
-              return React.cloneElement(child, { result: result })
+              return React.cloneElement(child, { data: item })
             });
-            return <li key={'result-item-'+ i}>{newChildren}</li>
+            return <li key={'list-item-'+ i}>{newChildren}</li>
           })}
         </ul>
       </div>
@@ -26,5 +26,5 @@ export class ResultList extends React.Component {
   }
 }
 
-export default ResultList
+export default BasicList
 

@@ -1,8 +1,10 @@
 import React from 'react'
 
 type Props = {
-  playLists: Array.isRequired
+  playLists: Array.isRequired,
+  addPodcastToPlayList: Function.isRequired
 };
+
 export class SavePodcast extends React.Component {
   props: Props;
 

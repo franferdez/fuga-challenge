@@ -5,7 +5,7 @@ import { doSearch } from '../../redux/modules/Search'
 import { addPodcastToPlayList } from '../../redux/modules/PLayLists'
 import Styles from './SearchView.scss'
 import SearchInput from 'components/SearchInput/SearchInput'
-import ResultList from 'components/ResultList/ResultList'
+import BasicList from 'components/BasicList/BasicList'
 import PodcastResult from 'components/PodcastResult/PodcastResult'
 import SavePodcast from 'components/SavePodcast/SavePodcast'
 
@@ -24,10 +24,10 @@ export class Search extends React.Component {
       <div className='SearchView'>
           <h1>Audio Search</h1>
           <SearchInput doSearch={doSearch} />
-          <ResultList results={results}>
+          <BasicList name="ResultList" list={results}>
               <PodcastResult />
               <SavePodcast playLists={playLists} addPodcastToPlayList={addPodcastToPlayList} />
-          </ResultList>
+          </BasicList>
       </div>
     )
   }

@@ -2,7 +2,7 @@ import React from 'react'
 
 type
 Props = {
-  result: Object.isRequired,
+  data: Object.isRequired,
   deletePlayList: Function.isRequired
 };
 export class ItemPlayList extends React.Component {
@@ -14,14 +14,14 @@ export class ItemPlayList extends React.Component {
   }
 
   handleDelete() {
-    const {id,title} = this.props.result;
+    const {id,title} = this.props.data;
     if (window.confirm('Are you sure you want to delete ' + title + ' playlist?')) {
       this.props.deletePlayList(id);
     }
   }
 
   render() {
-    const {title, podcasts} = this.props.result;
+    const {title, podcasts} = this.props.data;
     return (
       <div>
         <h2>{title}</h2>

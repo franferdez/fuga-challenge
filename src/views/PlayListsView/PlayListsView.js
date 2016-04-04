@@ -2,7 +2,7 @@
 import React, { PropTypes } from 'react'
 import { connect } from 'react-redux'
 import { createPlayList, deletePlayList } from '../../redux/modules/PlayLists'
-import ResultList from 'components/ResultList/ResultList'
+import BasicList from 'components/BasicList/BasicList'
 import FormPlaylist from 'components/FormPlaylist/FormPlaylist'
 import ItemPlaylist from 'components/ItemPlaylist/ItemPlaylist'
 
@@ -21,9 +21,9 @@ export class PlayLists extends React.Component {
       <div className='SearchView'>
         <h1>Playlists</h1>
         <FormPlaylist createPlayList={createPlayList}/>
-        <ResultList results={playLists}>
+        <BasicList list={playLists}>
           <ItemPlaylist deletePlayList={deletePlayList}/>
-        </ResultList>
+        </BasicList>
       </div>
     )
   }

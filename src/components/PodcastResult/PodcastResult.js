@@ -1,7 +1,7 @@
 import React from 'react'
 
 type Props = {
-  result: Object.isRequired
+  data: Object.isRequired
 };
 export class PodcastResult extends React.Component {
   props: Props;
@@ -20,7 +20,7 @@ export class PodcastResult extends React.Component {
         show_title,
         date_created,
         date_added
-        } = this.props.result
+        } = this.props.data
 
     return (
       <div className="PodcastResult">
