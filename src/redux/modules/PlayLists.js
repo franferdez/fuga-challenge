@@ -28,11 +28,11 @@ export function deletePlayList (id: Integer): Action {
 }
 
 
-export function addPodcastToPlayList (id: Integer, idPodcast: Integer): Action {
+export function addPodcastToPlayList (idPlayList: Integer, idPodcast: Integer): Action {
   return {
     type: ADD_PODCAST_TO_PLAYLIST,
     payload: {
-      id: id,
+      idPlayList: idPlayList,
       idPodcast: idPodcast
     }
   }
@@ -82,10 +82,12 @@ export default function (state = initialState, action) {
 
     case ADD_PODCAST_TO_PLAYLIST: {
       let playList = _.find(state.playLists, (elem)=> {
-        return elem.id === action.payload.id
+        return elem.id === action.payload.idPlayList
       });
       playList.podcasts.push(action.payload.idPodcast);
-      return state;
+      return Object.assign({}, state, {
+        playLists: [].concat(state.playLists)
+      });
     }break;
 
     case REMOVE_PODCAST_TO_PLAYLIST:{
