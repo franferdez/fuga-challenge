@@ -1,7 +1,7 @@
 /* @flow */
 import React, { PropTypes } from 'react'
 import { connect } from 'react-redux'
-import { createPlayList, deletePlayList } from '../../redux/modules/PlayLists'
+import { createPlayList, deletePlayList, removePodcastToPlayList } from '../../redux/modules/PlayLists'
 import BasicList from 'components/BasicList/BasicList'
 import FormPlaylist from 'components/FormPlaylist/FormPlaylist'
 import ItemPlaylist from 'components/ItemPlaylist/ItemPlaylist'
@@ -15,14 +15,14 @@ export class PlayLists extends React.Component {
   props:Props;
 
   render() {
-    const {playlists, podcasts, createPlayList, deletePlayList} = this.props;
+    const {playlists, podcasts, createPlayList, deletePlayList, removePodcastToPlayList} = this.props;
 
     return (
       <div className='SearchView'>
         <h1>Playlists</h1>
         <FormPlaylist createPlayList={createPlayList}/>
         <BasicList list={playlists}>
-          <ItemPlaylist podcasts={podcasts} deletePlayList={deletePlayList}/>
+          <ItemPlaylist podcasts={podcasts} removePodcastToPlayList={removePodcastToPlayList} deletePlayList={deletePlayList}/>
         </BasicList>
       </div>
     )
@@ -36,5 +36,6 @@ const mapStateToProps = (state) => ({
 })
 export default connect((mapStateToProps), {
   createPlayList: createPlayList,
-  deletePlayList: deletePlayList
+  deletePlayList: deletePlayList,
+  removePodcastToPlayList: removePodcastToPlayList
 })(PlayLists)
