@@ -27,10 +27,11 @@ describe('(Component) SearchInput', function () {
   beforeEach(function () {
     _spies = {}
     _props = {
-      ...bindActionCreators({
-        doSearch: (_spies.doSearch = sinon.spy())
-      }, _spies.dispatch = sinon.spy())
-    }
+      //...bindActionCreators({
+      //  doSearch: (_spies.doSearch = sinon.spy())
+      //}, _spies.dispatch = sinon.spy())
+  }
+    _spies.handleSearch = sinon.spy(SearchInput.prototype, "handleSearch")
     _component = shallowRenderWithProps(_props)
     _rendered = renderWithProps(_props)
   });
@@ -56,12 +57,15 @@ describe('(Component) SearchInput', function () {
     })
 
     //it('should dispatch an action when clicked.', function () {
-    //  sinon.spy(SearchInput.prototype, 'handleSearch');
-    //  _spies.doSearch.should.have.not.been.called
+    //  _spies.handleSearch.should.have.not.been.called
     //  TestUtils.Simulate.click(_btn)
-    //  _spies.doSearch.should.have.been.called
+    //  _spies.handleSearch.should.have.been.called
     //})
 
+  })
+
+  afterEach(function () {
+    _spies.handleSearch.restore()
   })
 
 })
