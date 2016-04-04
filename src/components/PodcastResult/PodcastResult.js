@@ -33,7 +33,7 @@ export class PodcastResult extends React.Component {
         </p>
         <p>
           <span>{date_created}</span>
-          {description}
+           <span dangerouslySetInnerHTML={{__html: description}}/>
         </p>
       </div>
     )
