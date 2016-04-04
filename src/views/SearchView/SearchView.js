@@ -24,7 +24,7 @@ export class Search extends React.Component {
       <div className='SearchView'>
           <h1>Audio Search</h1>
           <SearchInput doSearch={doSearch} />
-          <BasicList name="ResultList" list={results}>
+          <BasicList list={results}>
               <PodcastResult />
               <SavePodcast playLists={playLists} addPodcastToPlayList={addPodcastToPlayList} />
           </BasicList>
