@@ -1,4 +1,4 @@
-import reducer, { initialState } from 'redux/modules/Searh'
+import reducer, { initialState } from 'redux/modules/Search'
 
 describe('(Redux) Search', () => {
   describe('(Reducer)', () => {
