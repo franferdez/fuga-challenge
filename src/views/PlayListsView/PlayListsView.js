@@ -6,23 +6,23 @@ import BasicList from 'components/BasicList/BasicList'
 import FormPlaylist from 'components/FormPlaylist/FormPlaylist'
 import ItemPlaylist from 'components/ItemPlaylist/ItemPlaylist'
 
-type
-Props = {
-  playLists: Array
+type Props = {
+  playlists: Array.isRequired,
+  podcasts: Array.isRequired
 };
 
 export class PlayLists extends React.Component {
   props:Props;
 
   render() {
-    const {playLists,createPlayList, deletePlayList} = this.props;
+    const {playlists, podcasts, createPlayList, deletePlayList} = this.props;
 
     return (
       <div className='SearchView'>
         <h1>Playlists</h1>
         <FormPlaylist createPlayList={createPlayList}/>
-        <BasicList list={playLists}>
-          <ItemPlaylist deletePlayList={deletePlayList}/>
+        <BasicList list={playlists}>
+          <ItemPlaylist podcasts={podcasts} deletePlayList={deletePlayList}/>
         </BasicList>
       </div>
     )
@@ -30,7 +30,9 @@ export class PlayLists extends React.Component {
 }
 
 const mapStateToProps = (state) => ({
-  playLists: state.PlayLists.playLists
+  playlists: state.PlayLists.playLists,
+  // For this demo i'm passing the search as podcast list. In a real app it would be a different entity
+  podcasts: state.Search.results
 })
 export default connect((mapStateToProps), {
   createPlayList: createPlayList,

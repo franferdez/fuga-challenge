@@ -2,7 +2,7 @@
 import React, { PropTypes } from 'react'
 import { connect } from 'react-redux'
 import { doSearch } from '../../redux/modules/Search'
-import { addPodcastToPlayList } from '../../redux/modules/PLayLists'
+import { addPodcastToPlayList } from '../../redux/modules/PlayLists'
 import Styles from './SearchView.scss'
 import SearchInput from 'components/SearchInput/SearchInput'
 import BasicList from 'components/BasicList/BasicList'
