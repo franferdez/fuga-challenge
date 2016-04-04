@@ -1,4 +1,5 @@
 import React from 'react'
+import BasicList from 'components/BasicList/BasicList'
 
 type
 Props = {
@@ -26,11 +27,9 @@ export class ItemPlayList extends React.Component {
       <div>
         <h2>{title}</h2>
         <button onClick={this.handleDelete}>Remove</button>
-        <ul>
-          <li>podcast
-            <button>Remove</button>
-          </li>
-        </ul>
+        <BasicList list={podcasts}>
+          <h3>some podcast</h3>
+        </BasicList>
       </div>
     )
   }
