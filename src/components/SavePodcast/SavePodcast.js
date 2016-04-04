@@ -23,9 +23,10 @@ export class SavePodcast extends React.Component {
   handleAdd(){
     const podcast = this.props.data;
     const playlistId = parseInt(this.state.selectValue, 10);
-
-    if (window.confirm('Are you sure you want to add this podcast to the playlist?')) {
-      this.props.addPodcastToPlayList(playlistId,podcast.id);
+    if(playlistId!==0){
+      if (window.confirm('Are you sure you want to add this podcast to the playlist?')) {
+        this.props.addPodcastToPlayList(playlistId,podcast.id);
+      }
     }
   }
 
