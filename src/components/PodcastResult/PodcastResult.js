@@ -1,4 +1,5 @@
 import React from 'react'
+import moment from 'moment'
 
 type Props = {
   data: Object.isRequired
@@ -27,8 +28,8 @@ export class PodcastResult extends React.Component {
         <h3>{title}</h3>
         <p>
           <span>{this.showCategories(categories)}</span>
-          <span>{show_title}</span>
-          <span>{date_added}</span>
+          <span> {show_title}</span>
+          <span> {moment(date_added).fromNow()}</span>
         </p>
         <p>
           <span>{date_created}</span>
